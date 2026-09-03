@@ -1,0 +1,4 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\ResourceToolkit\Hornung.ResourceToolkit.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\ResourceToolkit\Hornung.ResourceToolkit.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\ResourceToolkit\Project\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\ResourceToolkit\Project\obj\Release\Hornung.ResourceToolkit.dll

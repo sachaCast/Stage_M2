@@ -1,0 +1,8 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\DisplayBindings\IconEditor\IconEditorAddIn.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\DisplayBindings\IconEditor\ICSharpCode.IconEditorAddIn.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\IconEditor\IconEditorAddIn\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\IconEditor\IconEditorAddIn\obj\Debug\ICSharpCode.IconEditorAddIn.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\IconEditor\IconEditorAddIn\obj\Debug\ICSharpCode.IconEditorAddIn.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\IconEditor\IconEditorAddIn\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\IconEditor\IconEditorAddIn\obj\Release\ICSharpCode.IconEditorAddIn.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\DisplayBindings\IconEditor\ICSharpCode.IconEditorAddIn.pdb

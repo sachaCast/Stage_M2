@@ -1,0 +1,7 @@
+switch = switch*
+light= light*
+
+advice switch_and_light(switch,light):
+
+switch .^Status_Event -> (light.SetTarget)
+light .^Status_Event -> (switch.SetTarget)

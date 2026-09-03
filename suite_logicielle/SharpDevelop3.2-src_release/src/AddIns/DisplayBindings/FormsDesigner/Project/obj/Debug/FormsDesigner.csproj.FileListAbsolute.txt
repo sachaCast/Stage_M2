@@ -1,0 +1,8 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\DisplayBindings\FormsDesigner\FormsDesigner.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\DisplayBindings\FormsDesigner\FormsDesigner.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Debug\ICSharpCode.FormsDesigner.Gui.ImageResourceEditorDialog.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Debug\ICSharpCode.FormsDesigner.Gui.OptionPanels.LocalizationModelOptionsPanel.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Debug\FormsDesigner.csproj.GenerateResource.Cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Debug\FormsDesigner.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Debug\FormsDesigner.pdb

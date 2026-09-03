@@ -1,0 +1,4 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\SharpDevelop.Build.Python.targets
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\Python.Build.Tasks.Tests.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\Python\Python.Build.Tasks\Test\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\Python\Python.Build.Tasks\Test\obj\Release\Python.Build.Tasks.Tests.dll

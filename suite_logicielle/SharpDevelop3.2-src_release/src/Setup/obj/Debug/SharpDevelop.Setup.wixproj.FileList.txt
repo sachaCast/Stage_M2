@@ -1,0 +1,2 @@
+obj\Debug\Setup.wixobj
+obj\Debug\Files.wixobj

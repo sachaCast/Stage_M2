@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<Template author="Rainbow, I3S Laboratory (UNS / CNRS)" version="1.0">
+
+	<Config
+		  name        = "C# Bean with Thread"
+		  icon        = "C#.File.NewClass"
+		  category    = "WComp.NET"
+		  defaultname = "BeanThread${Number}.cs"
+		  language    = "C#"/>
+	 
+	<Description>Template for Wcomp.NET bean with thread creation</Description>
+	
+	<Files>
+		<File name="${FullName}" language="C#"><![CDATA[${StandardHeader.C#}
+using System;
+using System.Threading; // For the thread demo purposes
+using WComp.Beans;
+
+namespace WComp.Beans
+{
+	/// <summary>
+	/// This is a sample bean, using a thread, which has an integer evented property and a method 
+        ///     to start the thread.
+	/// 
+	/// Notes: this bean uses the IThreadCreator interface providing a cleanup method named `Stop()'.
+	/// Several classes can be defined or used by a Bean, but only the class with the
+	/// [Bean] attribute will be available in WComp. Its ports will be all public methods,
+	///     events and properties definied in that class.
+	/// </summary>
+	[Bean(Category="MyCategory")]
+	public class BeanThread1 : IThreadCreator {
+		private Thread t;	  // Private attributes of the class
+		private volatile bool run = false;
+		private int sleepVal = 1000;
+		private volatile int eventValue;
+ 
+		public BeanThread1() {
+			// Put here your init instructions
+			eventValue = 10;
+		}
+ 
+		public void Start() {  // method starting the thread
+			if (!run) {
+				run = true;
+				t = new Thread(new ThreadStart(ThreadLoopMethod));
+				t.Start();
+			} 
+		}
+		public void Stop() {   // IThreadCreator defines the Stop() method
+			run = false;
+		} 
+ 
+		 // Loop sample
+		 public void ThreadLoopMethod() {
+			 while(run) {
+				 Thread.Sleep(sleepVal);
+				 // Check if the output is connected
+				 if(Output_Sample != null)
+					 // call the connected methods sequentially
+					 Output_Sample(eventValue);
+				// and so on...
+			 }
+		}
+ 
+		// --- Start: Input port sample ---
+		// an input port is a public method (like below)
+		public void Input_Sample(int intParam) {
+			eventValue = intParam;
+			// No return value is expected in WComp:
+			// results are given using events
+		}
+		// --- End: Input port sample ---
+ 
+		// --- Start: Output port sample ---
+		public delegate void Output_Sample_Signature(int val);
+		// The delegate defines the signature of the output method
+		public event Output_Sample_Signature Output_Sample;
+		// The output port is the event, named here Output_Sample
+		// --- End: Output port sample ---
+	}
+}
+]]></File>
+	</Files>
+	
+	<AdditionalOptions/>
+</Template>

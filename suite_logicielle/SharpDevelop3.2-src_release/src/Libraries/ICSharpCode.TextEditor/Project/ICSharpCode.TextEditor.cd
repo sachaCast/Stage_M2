@@ -1,0 +1,1448 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ClassDiagram Zoom="1" MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Enum Name="ICSharpCode.TextEditor.Document.LineViewerStyle" Collapsed="False">
+    <Position X="0.5" Y="90.7" Width="2.003122" />
+    <Compartments />
+  </Enum>
+  <Enum Name="ICSharpCode.TextEditor.Document.IndentStyle" Collapsed="False">
+    <Position X="0.5" Y="92" Width="1.647931" />
+    <Compartments />
+  </Enum>
+  <Enum Name="ICSharpCode.TextEditor.Document.BracketHighlightingStyle" Collapsed="False">
+    <Position X="0.5" Y="93.5" Width="2.632882" />
+    <Compartments />
+  </Enum>
+  <Enum Name="ICSharpCode.TextEditor.Document.DocumentSelectionMode" Collapsed="False">
+    <Position X="0.5" Y="95" Width="2.449782" />
+    <Compartments />
+  </Enum>
+  <Class Name="ICSharpCode.TextEditor.Document.DefaultDocument" Collapsed="False">
+    <Position X="0.5" Y="96.4" Width="3.909674" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+      <Compartment Name="Events" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Delegate Name="ICSharpCode.TextEditor.Document.DocumentEventHandler" Collapsed="False">
+    <Position X="0.5" Y="107" Width="1.784264" />
+    <Compartments />
+  </Delegate>
+  <Class Name="ICSharpCode.TextEditor.Document.DocumentEventArgs" Collapsed="False">
+    <Position X="0.5" Y="108.4" Width="2.656266" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Document.DocumentFactory" Collapsed="False">
+    <Position X="0.5" Y="112.1" Width="2.253005" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Document.HighlightingDefinitionInvalidException" Collapsed="False">
+    <Position X="0.5" Y="113.7" Width="4.370182" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Interface Name="ICSharpCode.TextEditor.Document.IDocument" Collapsed="False">
+    <Position X="0.5" Y="115.6" Width="3.909674" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Events" Collapsed="False" />
+    </Compartments>
+  </Interface>
+  <Interface Name="ICSharpCode.TextEditor.Document.ISegment" Collapsed="False">
+    <Position X="0.5" Y="123.7" Width="1.117463" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+    </Compartments>
+  </Interface>
+  <Struct Name="ICSharpCode.TextEditor.Document.DeferredEventList" Collapsed="False">
+    <Position X="0.5" Y="125.3" Width="2.268151" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Struct>
+  <Class Name="ICSharpCode.TextEditor.Document.LineSegmentTree" Collapsed="False">
+    <Position X="0.5" Y="127.5" Width="3.166305" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+      <Compartment Name="Nested Types" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Enum Name="ICSharpCode.TextEditor.Document.AnchorMovementType" Collapsed="False">
+    <Position X="0.5" Y="141.1" Width="2.686969" />
+    <Compartments />
+  </Enum>
+  <Class Name="ICSharpCode.TextEditor.Document.TextAnchor" Collapsed="False">
+    <Position X="0.5" Y="142.4" Width="2.528839" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+      <Compartment Name="Events" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Struct Name="ICSharpCode.TextEditor.TextLocation" Collapsed="False">
+    <Position X="0.5" Y="146.7" Width="2.040202" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Struct>
+  <Class Name="ICSharpCode.TextEditor.Document.TextUtilities" Collapsed="False">
+    <Position X="0.5" Y="151.5" Width="3.056579" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Nested Types" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Interface Name="ICSharpCode.TextEditor.Document.IBookmarkFactory" Collapsed="False">
+    <Position X="0.5" Y="156.7" Width="1.938258" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Interface>
+  <Class Name="ICSharpCode.TextEditor.Document.BookmarkManager" Collapsed="False">
+    <Position X="0.5" Y="158.1" Width="2.562946" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+      <Compartment Name="Events" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Document.BookmarkManagerMemento" Collapsed="False">
+    <Position X="0.5" Y="163.6" Width="3.436901" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Document.DefaultFormattingStrategy" Collapsed="False">
+    <Position X="0.5" Y="166.5" Width="3.225495" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Interface Name="ICSharpCode.TextEditor.Document.IFormattingStrategy" Collapsed="False">
+    <Position X="0.5" Y="169.6" Width="1.939064" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Interface>
+  <Class Name="ICSharpCode.TextEditor.Document.DefaultHighlightingStrategy" Collapsed="False">
+    <Position X="0.5" Y="171.6" Width="4.221755" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Document.FontContainer" Collapsed="False">
+    <Position X="0.5" Y="180.3" Width="2.015387" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Document.HighlightBackground" Collapsed="False">
+    <Position X="0.5" Y="5.6" Width="2.673131" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Document.HighlightColor" Collapsed="False">
+    <Position X="0.5" Y="0.5" Width="2.006579" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Document.HighlightInfo" Collapsed="False">
+    <Position X="0.5" Y="184.2" Width="1.841794" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Document.HighlightingColorNotFoundException" Collapsed="False">
+    <Position X="0.5" Y="186.3" Width="4.301754" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Document.HighlightingDefinitionParser" Collapsed="False">
+    <Position X="0.5" Y="188.1" Width="2.250373" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Document.HighlightingManager" Collapsed="False">
+    <Position X="0.5" Y="189.6" Width="4.386349" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+      <Compartment Name="Events" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Document.HighlightingStrategyFactory" Collapsed="False">
+    <Position X="0.5" Y="194.4" Width="3.336676" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Document.HighlightRuleSet" Collapsed="False">
+    <Position X="0.5" Y="196.1" Width="2.92047" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Interface Name="ICSharpCode.TextEditor.Document.IHighlightingStrategy" Collapsed="False">
+    <Position X="0.5" Y="8" Width="2.379523" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Interface>
+  <Interface Name="ICSharpCode.TextEditor.Document.IHighlightingStrategyUsingRuleSets" Collapsed="False">
+    <Position X="0.5" Y="10.4" Width="2.410426" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Interface>
+  <Class Name="ICSharpCode.TextEditor.Document.NextMarker" Collapsed="False">
+    <Position X="0.5" Y="201.3" Width="1.749088" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Document.PrevMarker" Collapsed="False">
+    <Position X="0.5" Y="204.1" Width="1.749088" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Document.Span" Collapsed="False">
+    <Position X="0.5" Y="206.9" Width="2.319045" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Enum Name="ICSharpCode.TextEditor.Document.TextWordType" Collapsed="False">
+    <Position X="0.5" Y="213.3" Width="1.842472" />
+    <Compartments />
+  </Enum>
+  <Class Name="ICSharpCode.TextEditor.Document.TextWord" Collapsed="False">
+    <Position X="0.5" Y="214.8" Width="2.502838" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+      <Compartment Name="Nested Types" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Document.LineManager" Collapsed="False">
+    <Position X="0.5" Y="224.8" Width="3.909674" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+      <Compartment Name="Events" Collapsed="False" />
+      <Compartment Name="Nested Types" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Document.LineSegment" Collapsed="False">
+    <Position X="0.5" Y="232.9" Width="2.482082" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Document.LineCountChangeEventArgs" Collapsed="False">
+    <Position X="0.5" Y="238.8" Width="3.45151" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Document.LineEventArgs" Collapsed="False">
+    <Position X="0.5" Y="12" Width="2.053307" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Document.LineLengthChangeEventArgs" Collapsed="False">
+    <Position X="0.5" Y="14.6" Width="3.539918" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Document.GapTextBufferStrategy" Collapsed="False">
+    <Position X="0.5" Y="241.5" Width="1.741671" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Interface Name="ICSharpCode.TextEditor.Document.ITextBufferStrategy" Collapsed="False">
+    <Position X="0.5" Y="246.1" Width="1.554596" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Interface>
+  <Class Name="ICSharpCode.TextEditor.Document.StringTextBufferStrategy" Collapsed="False">
+    <Position X="0.5" Y="248.6" Width="3.060495" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Util.RedBlackTreeNode" Collapsed="False">
+    <Position X="0.5" Y="251.7" Width="2.758478" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Interface Name="ICSharpCode.TextEditor.Util.IRedBlackTreeHost" Collapsed="False">
+    <Position X="0.5" Y="254.7" Width="2.211325" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Interface>
+  <Class Name="ICSharpCode.TextEditor.Util.AugmentableRedBlackTree" Collapsed="False">
+    <Position X="0.5" Y="256.5" Width="3.847897" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Util.CheckedList" Collapsed="False">
+    <Position X="0.5" Y="263.7" Width="2.177648" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Util.LoggingService" Collapsed="False">
+    <Position X="0.5" Y="268.6" Width="2.053322" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Util.LookupTable" Collapsed="False">
+    <Position X="0.5" Y="270" Width="1.889811" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+      <Compartment Name="Nested Types" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Util.MouseWheelHandler" Collapsed="False">
+    <Position X="0.5" Y="275.2" Width="1.63339" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Struct Name="ICSharpCode.TextEditor.Util.RedBlackTreeIterator" Collapsed="False">
+    <Position X="0.5" Y="277.1" Width="2.934543" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Struct>
+  <Class Name="ICSharpCode.TextEditor.Util.TextUtility" Collapsed="False">
+    <Position X="0.5" Y="280.2" Width="1.580973" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Undo.UndoableDelete" Collapsed="False">
+    <Position X="0.5" Y="282" Width="2.205846" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Undo.UndoableInsert" Collapsed="False">
+    <Position X="0.5" Y="284.3" Width="2.116256" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Undo.UndoableReplace" Collapsed="False">
+    <Position X="0.5" Y="286.7" Width="2.382233" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.Cut" Collapsed="False">
+    <Position X="0.5" Y="19" Width="1.293664" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.Copy" Collapsed="False">
+    <Position X="2.1" Y="19" Width="1.293664" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.Paste" Collapsed="False">
+    <Position X="3.8" Y="19" Width="1.293664" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.CaretLeft" Collapsed="False">
+    <Position X="5.5" Y="19" Width="1.293664" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.CaretRight" Collapsed="False">
+    <Position X="9.6" Y="19" Width="1.293664" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.CaretUp" Collapsed="False">
+    <Position X="13.9" Y="19" Width="1.293664" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.CaretDown" Collapsed="False">
+    <Position X="15.9" Y="19" Width="1.293664" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.WordRight" Collapsed="False">
+    <Position X="9.7" Y="20.4" Width="1.196188" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.WordLeft" Collapsed="False">
+    <Position X="5.6" Y="20.4" Width="1.196188" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.ScrollLineUp" Collapsed="False">
+    <Position X="18" Y="19" Width="1.293664" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.ScrollLineDown" Collapsed="False">
+    <Position X="19.7" Y="19" Width="1.356725" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.Home" Collapsed="False">
+    <Position X="21.5" Y="19" Width="1.293664" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.End" Collapsed="False">
+    <Position X="23.5" Y="19" Width="1.293664" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.MoveToStart" Collapsed="False">
+    <Position X="25.5" Y="19" Width="1.293664" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.MoveToEnd" Collapsed="False">
+    <Position X="27.7" Y="19" Width="1.293664" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Interface Name="ICSharpCode.TextEditor.Actions.IEditAction" Collapsed="False">
+    <Position X="0.5" Y="289.2" Width="1.196188" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Interface>
+  <Class Name="ICSharpCode.TextEditor.Actions.AbstractEditAction" Collapsed="False">
+    <Position X="0.5" Y="16.9" Width="1.503356" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.Tab" Collapsed="False">
+    <Position X="29.9" Y="19" Width="2.053791" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.ShiftTab" Collapsed="False">
+    <Position X="32.4" Y="19" Width="1.460553" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.ToggleComment" Collapsed="False">
+    <Position X="34.2" Y="19" Width="1.403454" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.ToggleLineComment" Collapsed="False">
+    <Position X="36.1" Y="19" Width="1.80672" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.ToggleBlockComment" Collapsed="False">
+    <Position X="38.3" Y="19" Width="3.220016" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.BlockCommentRegion" Collapsed="False">
+    <Position X="0.5" Y="290.9" Width="2.835124" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.Backspace" Collapsed="False">
+    <Position X="41.9" Y="19" Width="1.293664" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.Delete" Collapsed="False">
+    <Position X="43.6" Y="19" Width="1.582316" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.MovePageDown" Collapsed="False">
+    <Position X="45.6" Y="19" Width="1.39443" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.MovePageUp" Collapsed="False">
+    <Position X="48" Y="19" Width="1.293664" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.Return" Collapsed="False">
+    <Position X="50.3" Y="19" Width="1.293664" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.ToggleEditMode" Collapsed="False">
+    <Position X="52" Y="19" Width="1.393839" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.Undo" Collapsed="False">
+    <Position X="53.8" Y="19" Width="1.293664" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.Redo" Collapsed="False">
+    <Position X="55.5" Y="19" Width="1.293664" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.WordBackspace" Collapsed="False">
+    <Position X="57.2" Y="19" Width="1.390241" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.DeleteWord" Collapsed="False">
+    <Position X="43.7" Y="20.5" Width="1.196188" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.DeleteLine" Collapsed="False">
+    <Position X="59" Y="19" Width="1.293664" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.DeleteToLineEnd" Collapsed="False">
+    <Position X="60.6" Y="19" Width="1.44653" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.GotoMatchingBrace" Collapsed="False">
+    <Position X="62.5" Y="19" Width="1.576081" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.ShiftCaretRight" Collapsed="False">
+    <Position X="11.7" Y="20.4" Width="1.339323" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.ShiftCaretLeft" Collapsed="False">
+    <Position X="7.6" Y="20.4" Width="1.260905" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.ShiftCaretUp" Collapsed="False">
+    <Position X="14" Y="20.4" Width="1.212404" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.ShiftCaretDown" Collapsed="False">
+    <Position X="16" Y="20.4" Width="1.361667" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.ShiftWordRight" Collapsed="False">
+    <Position X="9.7" Y="21.8" Width="1.330729" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.ShiftWordLeft" Collapsed="False">
+    <Position X="5.6" Y="21.8" Width="1.252311" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.ShiftHome" Collapsed="False">
+    <Position X="21.6" Y="20.4" Width="1.196188" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.ShiftEnd" Collapsed="False">
+    <Position X="23.6" Y="20.4" Width="1.196188" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.ShiftMoveToStart" Collapsed="False">
+    <Position X="25.6" Y="20.4" Width="1.447819" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.ShiftMoveToEnd" Collapsed="False">
+    <Position X="27.8" Y="20.4" Width="1.40571" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.ShiftMovePageUp" Collapsed="False">
+    <Position X="48.1" Y="20.4" Width="1.483537" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.ShiftMovePageDown" Collapsed="False">
+    <Position X="45.7" Y="20.4" Width="1.632799" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.SelectWholeDocument" Collapsed="False">
+    <Position X="64.5" Y="19" Width="1.732218" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.ClearAllSelections" Collapsed="False">
+    <Position X="66.6" Y="19" Width="1.499059" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Interface Name="ICSharpCode.TextEditor.Document.ISelection" Collapsed="False">
+    <Position X="0.5" Y="294.3" Width="1.990172" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Interface>
+  <Class Name="ICSharpCode.TextEditor.Document.DefaultSelection" Collapsed="False">
+    <Position X="0.5" Y="297.5" Width="2.232272" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Interface Name="ICSharpCode.TextEditor.Document.IFoldingStrategy" Collapsed="False">
+    <Position X="0.5" Y="301.8" Width="2.563668" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Interface>
+  <Class Name="ICSharpCode.TextEditor.Document.IndentFoldingStrategy" Collapsed="False">
+    <Position X="0.5" Y="303.2" Width="2.563668" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Ime" Collapsed="False">
+    <Position X="0.5" Y="304.7" Width="2.491964" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+      <Compartment Name="Nested Types" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Enum Name="ICSharpCode.TextEditor.TextAreaUpdateType" Collapsed="False">
+    <Position X="0.5" Y="316.5" Width="2.808195" />
+    <Compartments />
+  </Enum>
+  <Class Name="ICSharpCode.TextEditor.TextAreaUpdate" Collapsed="False">
+    <Position X="0.5" Y="318.5" Width="2.761999" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Document.SelectionManager" Collapsed="False">
+    <Position X="0.5" Y="321.6" Width="2.407262" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+      <Compartment Name="Events" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Document.SelectFrom" Collapsed="False">
+    <Position X="0.5" Y="328.5" Width="1.738024" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Document.WhereFrom" Collapsed="False">
+    <Position X="0.5" Y="330.4" Width="1.154557" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Interface Name="ICSharpCode.TextEditor.Gui.CompletionWindow.ICompletionData" Collapsed="False">
+    <Position X="0.5" Y="332.1" Width="1.453976" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Interface>
+  <Class Name="ICSharpCode.TextEditor.Gui.CompletionWindow.DefaultCompletionData" Collapsed="False">
+    <Position X="0.5" Y="334.4" Width="2.924713" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Interface Name="ICSharpCode.TextEditor.Gui.CompletionWindow.ICompletionDataProvider" Collapsed="False">
+    <Position X="0.5" Y="338" Width="2.935939" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Interface>
+  <Enum Name="ICSharpCode.TextEditor.Gui.CompletionWindow.CompletionDataProviderKeyResult" Collapsed="False">
+    <Position X="0.5" Y="340.4" Width="3.29965" />
+    <Compartments />
+  </Enum>
+  <Class Name="ICSharpCode.TextEditor.Gui.CompletionWindow.CodeCompletionWindow" Collapsed="False">
+    <Position X="0.5" Y="83.8" Width="3.176833" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Interface Name="ICSharpCode.TextEditor.Gui.CompletionWindow.IDeclarationViewWindow" Collapsed="False">
+    <Position X="0.5" Y="341.9" Width="2.301237" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Interface>
+  <Class Name="ICSharpCode.TextEditor.Gui.CompletionWindow.DeclarationViewWindow" Collapsed="False">
+    <Position X="0.5" Y="343.8" Width="3.026549" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Interface Name="ICSharpCode.TextEditor.Gui.InsightWindow.IInsightDataProvider" Collapsed="False">
+    <Position X="0.5" Y="347.7" Width="1.832179" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Interface>
+  <Class Name="ICSharpCode.TextEditor.Gui.InsightWindow.InsightWindow" Collapsed="False">
+    <Position X="4" Y="83.8" Width="4.270036" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+      <Compartment Name="Nested Types" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Util.RtfWriter" Collapsed="False">
+    <Position X="0.5" Y="349.9" Width="1.978058" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Document.FoldingManager" Collapsed="False">
+    <Position X="0.5" Y="352.5" Width="3.517145" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+      <Compartment Name="Events" Collapsed="False" />
+      <Compartment Name="Nested Types" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Document.AbstractSegment" Collapsed="False">
+    <Position X="0.5" Y="23.1" Width="1.438742" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Enum Name="ICSharpCode.TextEditor.Document.FoldType" Collapsed="False">
+    <Position X="0.5" Y="361.8" Width="1.924972" />
+    <Compartments />
+  </Enum>
+  <Class Name="ICSharpCode.TextEditor.Document.FoldMarker" Collapsed="False">
+    <Position X="0.5" Y="25.6" Width="1.725348" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Util.TipPainter" Collapsed="False">
+    <Position X="0.5" Y="363.5" Width="2.053322" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Util.TipSection" Collapsed="False">
+    <Position X="0.5" Y="31.3" Width="2.110456" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Util.CountTipText" Collapsed="False">
+    <Position X="0.5" Y="39.3" Width="2.110456" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Util.TipText" Collapsed="False">
+    <Position X="0.5" Y="35.3" Width="2.450177" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Util.TipSplitter" Collapsed="False">
+    <Position X="3.3" Y="35.3" Width="2.110456" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Util.TipSpacer" Collapsed="False">
+    <Position X="5.8" Y="35.3" Width="2.110456" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Util.TipPainterTools" Collapsed="False">
+    <Position X="0.5" Y="366.3" Width="4.047433" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Interface Name="ICSharpCode.TextEditor.Document.ITextEditorProperties" Collapsed="False">
+    <Position X="0.5" Y="369.5" Width="3.142487" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+    </Compartments>
+  </Interface>
+  <Enum Name="ICSharpCode.TextEditor.CaretMode" Collapsed="False">
+    <Position X="0.5" Y="376.3" Width="2.107375" />
+    <Compartments />
+  </Enum>
+  <Class Name="ICSharpCode.TextEditor.Caret" Collapsed="False">
+    <Position X="0.5" Y="377.7" Width="2.833161" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+      <Compartment Name="Events" Collapsed="False" />
+      <Compartment Name="Nested Types" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Delegate Name="ICSharpCode.TextEditor.KeyEventHandler" Collapsed="False">
+    <Position X="0.5" Y="395.2" Width="1.452116" />
+    <Compartments />
+  </Delegate>
+  <Delegate Name="ICSharpCode.TextEditor.DialogKeyProcessor" Collapsed="False">
+    <Position X="0.5" Y="396.4" Width="1.604171" />
+    <Compartments />
+  </Delegate>
+  <Class Name="ICSharpCode.TextEditor.TextArea" Collapsed="False">
+    <Position X="0.5" Y="397.6" Width="3.226945" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+      <Compartment Name="Events" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.TextEditorControl" Collapsed="False">
+    <Position X="0.5" Y="53" Width="2.869884" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+      <Compartment Name="Events" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.TextEditorControlBase" Collapsed="False">
+    <Position X="0.5" Y="41.9" Width="2.860368" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+      <Compartment Name="Events" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.TextAreaClipboardHandler" Collapsed="False">
+    <Position X="0.5" Y="413.7" Width="3.523751" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+      <Compartment Name="Events" Collapsed="False" />
+      <Compartment Name="Nested Types" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Delegate Name="ICSharpCode.TextEditor.CopyTextEventHandler" Collapsed="False">
+    <Position X="0.5" Y="419.9" Width="1.75279" />
+    <Compartments />
+  </Delegate>
+  <Class Name="ICSharpCode.TextEditor.CopyTextEventArgs" Collapsed="False">
+    <Position X="0.5" Y="421.2" Width="2.593317" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.TextView" Collapsed="False">
+    <Position X="0.5" Y="64.5" Width="3.595778" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+      <Compartment Name="Nested Types" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.GutterMargin" Collapsed="False">
+    <Position X="4.4" Y="64.5" Width="2.273146" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Delegate Name="ICSharpCode.TextEditor.MarginMouseEventHandler" Collapsed="False">
+    <Position X="0.5" Y="423.4" Width="2.076774" />
+    <Compartments />
+  </Delegate>
+  <Delegate Name="ICSharpCode.TextEditor.MarginPaintEventHandler" Collapsed="False">
+    <Position X="0.5" Y="424.8" Width="1.880353" />
+    <Compartments />
+  </Delegate>
+  <Class Name="ICSharpCode.TextEditor.AbstractMargin" Collapsed="False">
+    <Position X="0.5" Y="59.5" Width="2.707643" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+      <Compartment Name="Events" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Interface Name="ICSharpCode.TextEditor.Undo.IUndoableOperation" Collapsed="False">
+    <Position X="0.5" Y="426.3" Width="1.591711" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Interface>
+  <Class Name="ICSharpCode.TextEditor.Undo.UndoQueue" Collapsed="False">
+    <Position X="0.5" Y="427.8" Width="2.294738" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Undo.UndoStack" Collapsed="False">
+    <Position X="0.5" Y="429.8" Width="3.552458" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+      <Compartment Name="Events" Collapsed="False" />
+      <Compartment Name="Nested Types" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Undo.OperationEventArgs" Collapsed="False">
+    <Position X="0.5" Y="437.6" Width="2.619958" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Delegate Name="ICSharpCode.TextEditor.Undo.OperationEventHandler" Collapsed="False">
+    <Position X="0.5" Y="439.7" Width="1.768312" />
+    <Compartments />
+  </Delegate>
+  <Class Name="ICSharpCode.TextEditor.TextAreaControl" Collapsed="False">
+    <Position X="0.5" Y="441.1" Width="2.707643" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+      <Compartment Name="Events" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.TextAreaMouseHandler" Collapsed="False">
+    <Position X="0.5" Y="449.9" Width="2.972409" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Interface Name="ICSharpCode.TextEditor.Document.ISyntaxModeFileProvider" Collapsed="False">
+    <Position X="0.5" Y="455.6" Width="2.58776" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Interface>
+  <Class Name="ICSharpCode.TextEditor.Document.SyntaxMode" Collapsed="False">
+    <Position X="0.5" Y="457.5" Width="2.386422" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Document.ResourceSyntaxModeProvider" Collapsed="False">
+    <Position X="0.5" Y="460.7" Width="3.652497" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.IconBarMargin" Collapsed="False">
+    <Position X="7.1" Y="64.5" Width="2.859186" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.FoldMargin" Collapsed="False">
+    <Position X="10.3" Y="64.5" Width="1.871925" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Document.FileSyntaxModeProvider" Collapsed="False">
+    <Position X="0.5" Y="463.1" Width="3.050612" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Document.ColumnRange" Collapsed="False">
+    <Position X="0.5" Y="465.9" Width="2.027956" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.TextAreaDragDropHandler" Collapsed="False">
+    <Position X="0.5" Y="469.1" Width="2.720505" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Highlight" Collapsed="False">
+    <Position X="0.5" Y="471.8" Width="1.843917" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.BracketHighlightingSheme" Collapsed="False">
+    <Position X="0.5" Y="473.8" Width="3.253639" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.ToggleBookmark" Collapsed="False">
+    <Position X="68.5" Y="19" Width="1.424616" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.GotoPrevBookmark" Collapsed="False">
+    <Position X="70.3" Y="19" Width="2.555397" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.GotoNextBookmark" Collapsed="False">
+    <Position X="73.3" Y="19" Width="2.555397" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.ClearAllBookmarks" Collapsed="False">
+    <Position X="76.2" Y="19" Width="2.508776" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.ToggleFolding" Collapsed="False">
+    <Position X="79.1" Y="19" Width="1.293664" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.ToggleAllFoldings" Collapsed="False">
+    <Position X="80.8" Y="19" Width="1.478004" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.ShowDefinitionsOnly" Collapsed="False">
+    <Position X="82.7" Y="19" Width="1.626569" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.AbstractLineFormatAction" Collapsed="False">
+    <Position X="84.7" Y="19" Width="1.894372" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.AbstractSelectionFormatAction" Collapsed="False">
+    <Position X="96.5" Y="19" Width="2.157931" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.RemoveLeadingWS" Collapsed="False">
+    <Position X="84.8" Y="20.9" Width="1.671413" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.RemoveTrailingWS" Collapsed="False">
+    <Position X="86.8" Y="20.9" Width="1.671413" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.ToUpperCase" Collapsed="False">
+    <Position X="96.6" Y="20.9" Width="1.923962" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.ToLowerCase" Collapsed="False">
+    <Position X="98.8" Y="20.9" Width="1.923962" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.InvertCaseAction" Collapsed="False">
+    <Position X="101.1" Y="20.9" Width="1.923962" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.CapitalizeAction" Collapsed="False">
+    <Position X="103.5" Y="20.9" Width="1.923962" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.ConvertTabsToSpaces" Collapsed="False">
+    <Position X="105.8" Y="20.9" Width="1.923962" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.ConvertSpacesToTabs" Collapsed="False">
+    <Position X="108.1" Y="20.9" Width="1.923962" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.ConvertLeadingTabsToSpaces" Collapsed="False">
+    <Position X="88.8" Y="20.9" Width="2.156589" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.ConvertLeadingSpacesToTabs" Collapsed="False">
+    <Position X="91.4" Y="20.9" Width="2.156589" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Actions.IndentSelection" Collapsed="False">
+    <Position X="94" Y="20.9" Width="1.671413" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Enum Name="ICSharpCode.TextEditor.Document.BracketMatchingStyle" Collapsed="False">
+    <Position X="0.5" Y="476.4" Width="2.209049" />
+    <Compartments />
+  </Enum>
+  <Class Name="ICSharpCode.TextEditor.Document.DefaultTextEditorProperties" Collapsed="False">
+    <Position X="0.5" Y="477.8" Width="3.365358" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Document.MarkerStrategy" Collapsed="False">
+    <Position X="0.5" Y="489.8" Width="2.972838" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Enum Name="ICSharpCode.TextEditor.Document.TextMarkerType" Collapsed="False">
+    <Position X="0.5" Y="493.6" Width="2.152223" />
+    <Compartments />
+  </Enum>
+  <Class Name="ICSharpCode.TextEditor.Document.TextMarker" Collapsed="False">
+    <Position X="2.5" Y="25.6" Width="2.25776" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Gui.CompletionWindow.AbstractCompletionWindow" Collapsed="False">
+    <Position X="0.5" Y="79.2" Width="3.365251" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Gui.CompletionWindow.CodeCompletionListView" Collapsed="False">
+    <Position X="0.5" Y="495.3" Width="3.114958" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+      <Compartment Name="Events" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.BrushRegistry" Collapsed="False">
+    <Position X="0.5" Y="501.2" Width="2.247526" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.HRuler" Collapsed="False">
+    <Position X="0.5" Y="503.7" Width="1.801457" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Document.Bookmark" Collapsed="False">
+    <Position X="0.5" Y="505.7" Width="2.25151" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+      <Compartment Name="Events" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Delegate Name="ICSharpCode.TextEditor.Document.BookmarkEventHandler" Collapsed="False">
+    <Position X="0.5" Y="510.9" Width="1.777926" />
+    <Compartments />
+  </Delegate>
+  <Class Name="ICSharpCode.TextEditor.Document.BookmarkEventArgs" Collapsed="False">
+    <Position X="0.5" Y="512.3" Width="2.64359" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Util.FileReader" Collapsed="False">
+    <Position X="0.5" Y="514.4" Width="1.984733" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.DrawableLine" Collapsed="False">
+    <Position X="0.5" Y="516.4" Width="2.555583" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+      <Compartment Name="Nested Types" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Delegate Name="ICSharpCode.TextEditor.ToolTipRequestEventHandler" Collapsed="False">
+    <Position X="0.5" Y="522.5" Width="2.082253" />
+    <Compartments />
+  </Delegate>
+  <Class Name="ICSharpCode.TextEditor.ToolTipRequestEventArgs" Collapsed="False">
+    <Position X="0.5" Y="523.8" Width="3.225817" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="RevisionClass" Collapsed="False">
+    <Position X="0.5" Y="527.1" Width="2.053322" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Document.SpanStack" Collapsed="False">
+    <Position X="0.5" Y="529.2" Width="2.372995" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+      <Compartment Name="Nested Types" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ICSharpCode.TextEditor.Util.WeakCollection" Collapsed="False">
+    <Position X="0.5" Y="536.7" Width="2.177648" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+</ClassDiagram>

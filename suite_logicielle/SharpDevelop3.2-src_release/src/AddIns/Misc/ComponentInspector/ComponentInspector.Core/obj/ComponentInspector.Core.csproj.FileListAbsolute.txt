@@ -1,0 +1,9 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\ComponentInspector\ComponentInspector.Core.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\ComponentInspector\ComponentInspector.Core\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\ComponentInspector\ComponentInspector.Core\obj\Debug\ComponentInspector.Core.Resources.BitmapResources.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\ComponentInspector\ComponentInspector.Core\obj\Debug\ComponentInspector.Core.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\ComponentInspector\ComponentInspector.Core\obj\Debug\ComponentInspector.Core.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\ComponentInspector\ComponentInspector.Core\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\ComponentInspector\ComponentInspector.Core\obj\Release\ComponentInspector.Core.Resources.BitmapResources.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\ComponentInspector\ComponentInspector.Core\obj\Release\ComponentInspector.Core.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\ComponentInspector\ComponentInspector.Core.pdb

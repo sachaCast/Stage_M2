@@ -1,0 +1,11 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\BackendBindings\ILAsmBinding\Templates\ConsoleProject.xpt
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\BackendBindings\ILAsmBinding\ILAsmBinding.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\BackendBindings\ILAsmBinding\ILAsmBinding.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\ILAsmBinding\Project\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\ILAsmBinding\Project\obj\Debug\ICSharpCode.ILAsmBinding.Resources.ILAsm-Mode.xshd
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\ILAsmBinding\Project\obj\Debug\ILAsmBinding.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\ILAsmBinding\Project\obj\Debug\ILAsmBinding.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\ILAsmBinding\Project\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\ILAsmBinding\Project\obj\Release\ICSharpCode.ILAsmBinding.Resources.ILAsm-Mode.xshd
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\ILAsmBinding\Project\obj\Release\ILAsmBinding.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\BackendBindings\ILAsmBinding\ILAsmBinding.pdb

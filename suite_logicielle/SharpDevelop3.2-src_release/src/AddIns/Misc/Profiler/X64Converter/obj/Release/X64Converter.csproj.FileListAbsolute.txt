@@ -1,0 +1,7 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\Profiler\X64Converter\bin\X64Converter.exe
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\Profiler\X64Converter\bin\X64Converter.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\Profiler\X64Converter\bin\ICSharpCode.NRefactory.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\Profiler\X64Converter\bin\ICSharpCode.NRefactory.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\Profiler\X64Converter\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\Profiler\X64Converter\obj\Release\X64Converter.exe
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\Profiler\X64Converter\obj\Release\X64Converter.pdb

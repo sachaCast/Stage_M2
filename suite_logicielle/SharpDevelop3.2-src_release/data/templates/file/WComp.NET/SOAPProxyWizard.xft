@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Template author="Rainbow, I3S Laboratory (UNS / CNRS)" version="0.0.1">
+	
+	<Config
+		name        = "WebService Proxy Wizard"
+		icon        = "C#.File.Form"
+		category    = "WComp.NET"
+		defaultname = "WSProxy${Number}.cs"
+		language    = "Default">
+		
+		<Wizard path = "/SharpDevelop/Templates/File/SOAPProxyWizard"/>
+		
+	</Config>
+	
+	<Description>Creates a SOAP WebService proxy using a wizard.</Description>
+	
+	<Files/>
+	<AdditionalOptions/>
+</Template>

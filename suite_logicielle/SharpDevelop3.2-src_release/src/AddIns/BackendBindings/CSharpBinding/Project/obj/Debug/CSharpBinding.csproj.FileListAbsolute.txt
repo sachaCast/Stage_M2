@@ -1,0 +1,6 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\BackendBindings\CSharpBinding\CSharpBinding.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\BackendBindings\CSharpBinding\CSharpBinding.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\BackendBindings\CSharpBinding\CSharpBinding.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\CSharpBinding\Project\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\CSharpBinding\Project\obj\Debug\CSharpBinding.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\CSharpBinding\Project\obj\Debug\CSharpBinding.pdb

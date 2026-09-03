@@ -1,0 +1,11 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\BackendBindings\BooBinding\BooBinding.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\BackendBindings\BooBinding\Templates\ConsoleProject.xpt
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\BackendBindings\BooBinding\Templates\FormsProject.xpt
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\BackendBindings\BooBinding\Templates\Library.xpt
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\BackendBindings\BooBinding\Templates\Empty.xft
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\BackendBindings\BooBinding\Templates\EmptyClass.xft
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\BackendBindings\BooBinding\Templates\Form.xft
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\BackendBindings\BooBinding\Templates\DefaultAssemblyInfo.boo
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\BackendBindings\BooBinding\BooBinding.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\Boo\BooBinding\Project\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\Boo\BooBinding\Project\obj\Release\BooBinding.dll

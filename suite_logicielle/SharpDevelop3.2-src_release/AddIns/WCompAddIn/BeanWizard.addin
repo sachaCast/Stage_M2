@@ -1,0 +1,23 @@
+<!-- WARNING: EDITING THIS FILE REQUIRES EDITING THE .template FILE TOO -->
+
+<AddIn name        = "Bean Wizard"
+       author      = "Rainbow, I3S Laboratory (UNS / CNRS)"
+       url         = "http://www.wcomp.fr/"
+       description = "Creates a bean for WComp using a wizard">
+
+	<Manifest>
+		<Identity name="BeanWizard" version="3.2.2.1427"/>
+		<Dependency addin="SharpDevelop" version="3.2.1.6466" />
+		<Dependency addin="WCompAddin" version="3.2.2.1427"/>
+	</Manifest>
+	
+	<Runtime>
+		<Import assembly="BeanWizard.dll"/>
+	</Runtime>
+	
+	<Path name="/SharpDevelop/Templates/File/BeanWizard">
+		<DialogPanel id = "OutputSettings"
+		             label = "Output Settings"
+		             class = "BeanWizard.BeanWizard"/>
+	</Path>
+</AddIn>

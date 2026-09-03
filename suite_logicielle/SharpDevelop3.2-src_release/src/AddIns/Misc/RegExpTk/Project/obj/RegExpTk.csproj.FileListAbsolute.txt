@@ -1,0 +1,12 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\RegExpTk\RegExpTk.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\RegExpTk\RegExpTk.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\RegExpTk\Project\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\RegExpTk\Project\obj\Debug\Resources.RegExpTkGroupForm.xfrm
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\RegExpTk\Project\obj\Debug\Resources.RegExpTkMainForm.xfrm
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\RegExpTk\Project\obj\Debug\RegExpTk.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\RegExpTk\Project\obj\Debug\RegExpTk.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\RegExpTk\Project\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\RegExpTk\Project\obj\Release\Resources.RegExpTkGroupForm.xfrm
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\RegExpTk\Project\obj\Release\Resources.RegExpTkMainForm.xfrm
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\RegExpTk\Project\obj\Release\RegExpTk.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\RegExpTk\RegExpTk.pdb

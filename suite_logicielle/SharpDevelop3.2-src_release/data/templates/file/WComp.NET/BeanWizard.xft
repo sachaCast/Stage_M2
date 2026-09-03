@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Template author="Rainbow, I3S Laboratory (UNS / CNRS)" version="0.0.1">
+	
+	<Config
+		name        = "Bean Wizard"
+		icon        = "C#.File.Form"
+		category    = "WComp.NET"
+		defaultname = "Bean${Number}.cs"
+		language    = "Default">
+		
+		<Wizard path = "/SharpDevelop/Templates/File/BeanWizard"/>
+		
+	</Config>
+	
+	<Description>Creates a Bean using a wizard.</Description>
+	
+	<Files/>
+	<AdditionalOptions/>
+</Template>

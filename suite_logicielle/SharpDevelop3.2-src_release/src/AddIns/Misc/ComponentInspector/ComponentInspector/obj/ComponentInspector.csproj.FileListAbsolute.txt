@@ -1,0 +1,10 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\Tools\ComponentInspector\ComponentInspector.exe.config
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\Tools\ComponentInspector\ComponentInspector.exe
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\ComponentInspector\ComponentInspector\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\ComponentInspector\ComponentInspector\obj\Debug\ComponentInspector.Resources.StringResources.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\ComponentInspector\ComponentInspector\obj\Debug\ComponentInspector.exe
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\ComponentInspector\ComponentInspector\obj\Debug\ComponentInspector.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\ComponentInspector\ComponentInspector\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\ComponentInspector\ComponentInspector\obj\Release\ComponentInspector.Resources.StringResources.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\ComponentInspector\ComponentInspector\obj\Release\ComponentInspector.exe
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\Tools\ComponentInspector\ComponentInspector.pdb

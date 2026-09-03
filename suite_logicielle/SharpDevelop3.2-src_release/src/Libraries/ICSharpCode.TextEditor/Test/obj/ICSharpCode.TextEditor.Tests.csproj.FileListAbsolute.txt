@@ -1,0 +1,8 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\ICSharpCode.TextEditor.Tests.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\ICSharpCode.TextEditor.Tests.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Libraries\ICSharpCode.TextEditor\Test\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Libraries\ICSharpCode.TextEditor\Test\obj\Debug\ICSharpCode.TextEditor.Tests.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Libraries\ICSharpCode.TextEditor\Test\obj\Debug\ICSharpCode.TextEditor.Tests.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Libraries\ICSharpCode.TextEditor\Test\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Libraries\ICSharpCode.TextEditor\Test\obj\Release\ICSharpCode.TextEditor.Tests.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Libraries\ICSharpCode.TextEditor\Test\obj\Release\ICSharpCode.TextEditor.Tests.pdb

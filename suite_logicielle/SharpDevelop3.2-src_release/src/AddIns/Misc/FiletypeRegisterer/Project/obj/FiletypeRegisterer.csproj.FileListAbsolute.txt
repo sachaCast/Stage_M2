@@ -1,0 +1,17 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\FiletypeRegisterer\filetypes\addin.ico
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\FiletypeRegisterer\FiletypeRegisterer.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\FiletypeRegisterer\filetypes\cs.ico
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\FiletypeRegisterer\filetypes\cmbx.ico
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\FiletypeRegisterer\filetypes\java.ico
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\FiletypeRegisterer\filetypes\prjx.ico
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\FiletypeRegisterer\filetypes\resx.ico
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\FiletypeRegisterer\filetypes\vb.ico
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\FiletypeRegisterer\filetypes\xfrm.ico
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\FiletypeRegisterer\filetypes\xml.ico
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\FiletypeRegisterer\ICSharpCode.FiletypeRegisterer.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\FiletypeRegisterer\Project\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\FiletypeRegisterer\Project\obj\Debug\ICSharpCode.FiletypeRegisterer.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\FiletypeRegisterer\Project\obj\Debug\ICSharpCode.FiletypeRegisterer.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\FiletypeRegisterer\Project\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\FiletypeRegisterer\Project\obj\Release\ICSharpCode.FiletypeRegisterer.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\FiletypeRegisterer\ICSharpCode.FiletypeRegisterer.pdb

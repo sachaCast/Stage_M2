@@ -1,0 +1,4 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\StartPage\StartPage.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\StartPage\StartPage.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\StartPage\Project\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\StartPage\Project\obj\Release\StartPage.dll

@@ -1,0 +1,6 @@
+switch = switch*
+socket = prise*
+
+advice switchsocket(switch,socket):
+
+switch .^Status_EventedNewValue -> (socket.SetTarget)

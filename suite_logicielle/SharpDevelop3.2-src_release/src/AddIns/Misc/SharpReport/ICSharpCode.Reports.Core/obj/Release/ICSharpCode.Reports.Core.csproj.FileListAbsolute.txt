@@ -1,0 +1,8 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\SharpDevelopReports\ICSharpCode.Reports.Core.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SharpReport\ICSharpCode.Reports.Core\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SharpReport\ICSharpCode.Reports.Core\obj\Release\ICSharpCode.Reports.Core.TextEditorDialog.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SharpReport\ICSharpCode.Reports.Core\obj\Release\ICSharpCode.Reports.Core.ParameterDialog.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SharpReport\ICSharpCode.Reports.Core\obj\Release\ICSharpCode.Reports.Core.ReportViewer.PreviewControl.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SharpReport\ICSharpCode.Reports.Core\obj\Release\ICSharpCode.Reports.Core.Project.Resources.CoreResource.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SharpReport\ICSharpCode.Reports.Core\obj\Release\ICSharpCode.Reports.Core.csproj.GenerateResource.Cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SharpReport\ICSharpCode.Reports.Core\obj\Release\ICSharpCode.Reports.Core.dll

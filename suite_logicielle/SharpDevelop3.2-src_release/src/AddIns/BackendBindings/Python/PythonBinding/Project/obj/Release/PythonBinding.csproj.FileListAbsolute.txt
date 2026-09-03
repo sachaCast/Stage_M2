@@ -1,0 +1,14 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\BackendBindings\PythonBinding\Lib\runpy.py
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\BackendBindings\PythonBinding\Lib\site.py
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\BackendBindings\PythonBinding\Lib\__future__.py
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\BackendBindings\PythonBinding\PythonBinding.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\BackendBindings\PythonBinding\Templates\ConsoleProject.xpt
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\BackendBindings\PythonBinding\Templates\Empty.xft
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\BackendBindings\PythonBinding\Templates\EmptyClass.xft
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\BackendBindings\PythonBinding\Templates\EmptyForm.xft
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\BackendBindings\PythonBinding\Templates\EmptyUserControl.xft
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\BackendBindings\PythonBinding\Templates\FormsProject.xpt
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\BackendBindings\PythonBinding\Templates\LibraryProject.xpt
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\BackendBindings\PythonBinding\PythonBinding.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\Python\PythonBinding\Project\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\Python\PythonBinding\Project\obj\Release\PythonBinding.dll

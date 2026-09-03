@@ -1,0 +1,14 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\ComponentInspector\ComponentInspector.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\ComponentInspector\ComponentInspector.AddIn.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\ComponentInspector\ComponentInspector.AddIn\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\ComponentInspector\ComponentInspector.AddIn\obj\Debug\ICSharpCode.ComponentInspector.AddIn.Resources.ObjectTreeOptionsPanel.xfrm
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\ComponentInspector\ComponentInspector.AddIn\obj\Debug\ICSharpCode.ComponentInspector.AddIn.Resources.TypeHandlerOptionsPanel.xfrm
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\ComponentInspector\ComponentInspector.AddIn\obj\Debug\ICSharpCode.ComponentInspector.AddIn.Resources.GeneralOptionsPanel.xfrm
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\ComponentInspector\ComponentInspector.AddIn\obj\Debug\ComponentInspector.AddIn.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\ComponentInspector\ComponentInspector.AddIn\obj\Debug\ComponentInspector.AddIn.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\ComponentInspector\ComponentInspector.AddIn\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\ComponentInspector\ComponentInspector.AddIn\obj\Release\ICSharpCode.ComponentInspector.AddIn.Resources.ObjectTreeOptionsPanel.xfrm
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\ComponentInspector\ComponentInspector.AddIn\obj\Release\ICSharpCode.ComponentInspector.AddIn.Resources.TypeHandlerOptionsPanel.xfrm
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\ComponentInspector\ComponentInspector.AddIn\obj\Release\ICSharpCode.ComponentInspector.AddIn.Resources.GeneralOptionsPanel.xfrm
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\ComponentInspector\ComponentInspector.AddIn\obj\Release\ComponentInspector.AddIn.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\ComponentInspector\ComponentInspector.AddIn.pdb

@@ -1,0 +1,7 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\SourceAnalysis\SharpDevelop.SourceAnalysis.targets
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\SourceAnalysis\SourceAnalysis.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\SourceAnalysis\SourceAnalysis.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SourceAnalysis\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SourceAnalysis\obj\Release\MattEverson.SourceAnalysis.AnalysisProjectOptions.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SourceAnalysis\obj\Release\SourceAnalysis.csproj.GenerateResource.Cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SourceAnalysis\obj\Release\SourceAnalysis.dll

@@ -1,0 +1,6 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\SharpRefactoring\SharpRefactoring.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\SharpRefactoring\SharpRefactoring.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SharpRefactoring\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SharpRefactoring\obj\Release\SharpRefactoring.Forms.ExtractMethodForm.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SharpRefactoring\obj\Release\SharpRefactoring.csproj.GenerateResource.Cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SharpRefactoring\obj\Release\SharpRefactoring.dll

@@ -1,0 +1,8 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\VBNetBinding.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\VBNetBinding.Tests.dll.config
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\VBNetBinding.Tests.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\VBNetBinding\Test\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\VBNetBinding\Test\obj\Debug\VBNetBinding.Tests.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\VBNetBinding\Test\obj\Debug\VBNetBinding.Tests.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\VBNetBinding\Test\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\VBNetBinding\Test\obj\Release\VBNetBinding.Tests.dll

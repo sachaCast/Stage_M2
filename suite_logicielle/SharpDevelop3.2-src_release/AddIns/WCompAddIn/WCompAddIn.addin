@@ -1,0 +1,55 @@
+<!-- WARNING: EDITING THIS FILE REQUIRES EDITING THE .template FILE TOO -->
+
+<AddIn name        = "WComp Addin"
+       author      = "Rainbow, I3S Laboratory (UNS / CNRS)"
+       url         = "http://www.wcomp.fr/"
+       description = "The WComp event-based components framework">
+	
+	<Manifest>
+		<Identity name="WCompAddin" version="3.2.2.1427"/>
+		<Dependency addin="SharpDevelop" version="3.2.1.6466"/>
+		<Dependency addin="ICSharpCode.FormsDesigner"/>
+	</Manifest>
+	
+	<Runtime>
+		<Import assembly=":ICSharpCode.SharpDevelop"/>
+		<Import assembly="$ICSharpCode.FormsDesigner/FormsDesigner.dll"/>
+		<Import assembly="WCompAddin.dll" />
+	</Runtime>
+	
+	<Path name="/SharpDevelop/Workbench/DisplayBindings">
+		<DisplayBinding id="WComp.NET"
+		                type="Secondary"
+		                insertbefore="Text"
+		                class="WComp.SDAddIn.WCompAddIn"
+		                fileNamePattern="\.cs$" />
+	</Path>
+	
+	<Path name="/SharpDevelop/Workbench/MainMenu">
+		<Condition name="WindowActive" activewindow="WComp.SDAddIn.WCompViewContent">
+			<MenuItem id="wcomp" label="WComp.NET" type="Menu" insertbefore="Tools">
+				<MenuItem label="Reload beans..." class="WComp.SDAddIn.Menu.ReloadCommandMenuItem" />
+				<MenuItem type="Separator" />
+				<MenuItem label="Import..." class="WComp.SDAddIn.Menu.ImportCommandMenuItem" />
+				<MenuItem label="Import (Replace)..." class="WComp.SDAddIn.Menu.ImportReplaceCommandMenuItem" />
+				<MenuItem label="Export..." class="WComp.SDAddIn.Menu.ExportCommandMenuItem" />
+				<MenuItem type="Separator" />
+				<MenuItem label="Bind to UPnP Device" type="CheckBox" class="WComp.SDAddIn.Menu.UPnPBindMenuItem" />
+				<MenuItem label="Custom Binding Attributes..." class="WComp.SDAddIn.Menu.UPnPBindCustomMenuItem" />
+				<MenuItem type="Separator" />
+				<MenuItem label="Log console..." class="WComp.SDAddIn.Menu.LogConsoleMenuItem" />
+				<MenuItem label="A propos de..." class="WComp.SDAddIn.Menu.AProposMenuItem" />
+			</MenuItem>
+		</Condition>
+	</Path>
+	
+	<Path name = "/SharpDevelop/Dialogs/OptionsDialog">
+		<DialogPanel id = "WCompOptions"
+		             label = "WComp.NET">
+			<DialogPanel id  = "PathOptions"
+			             label = "Path Options"
+			             class = "WComp.SDAddIn.WCompOptionPanel" />
+		</DialogPanel>
+	</Path>
+
+</AddIn>

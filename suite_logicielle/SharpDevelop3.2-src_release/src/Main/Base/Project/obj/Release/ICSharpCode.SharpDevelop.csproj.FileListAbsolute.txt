@@ -1,0 +1,8 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\ICSharpCode.SharpDevelop.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\Base\Project\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\Base\Project\obj\Release\ICSharpCode.SharpDevelop.Gui.ExtractInterfaceDialog.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\Base\Project\obj\Release\ICSharpCode.SharpDevelop.Project.Dialogs.NewProjectDialog.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\Base\Project\obj\Release\ICSharpCode.SharpDevelop.Gui.OptionPanels.ConvertToMSBuild35Dialog.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\Base\Project\obj\Release\ICSharpCode.SharpDevelop.Gui.AddNewConfigurationDialog.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\Base\Project\obj\Release\ICSharpCode.SharpDevelop.csproj.GenerateResource.Cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\Base\Project\obj\Release\ICSharpCode.SharpDevelop.dll

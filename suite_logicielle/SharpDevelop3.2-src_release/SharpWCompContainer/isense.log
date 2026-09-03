@@ -1,0 +1,387 @@
+InterSense Library ver. 4.17 32-bit
+Copyright 1998-2010 InterSense Inc.
+http://www.intersense.com
+Tel: 781-541-6330
+
+Wed May 07 08:27:21 2014
+Looking for InterSense tracking device number 1. 
+Please wait 
+Invalid Handle (\\?\hid#vid_046d&pid_c529&mi_00#9&59ac1b1&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030})
+Invalid Handle (\\?\hid#vid_046d&pid_c529&mi_01&col01#9&1d5e4df6&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030})
+Invalid Handle (\\?\hid#vid_046d&pid_c529&mi_01&col02#9&1d5e4df6&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030})
+(iHid) hidOpenDevice. VendorID: 1133; ProductID: 50473
+(iHid) hidOpenDevice. VendorID: 1133, closing handle
+Invalid Handle (\\?\hid#vid_046d&pid_c529&mi_01&col04#9&1d5e4df6&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030})
+(iHid) hidOpenDevice. VendorID: 1133; ProductID: 50473
+(iHid) hidOpenDevice. VendorID: 1133, closing handle
+(iHid) hidOpenDevice. VendorID: 1133; ProductID: 50473
+(iHid) hidOpenDevice. VendorID: 1133, closing handle
+Looking for IS-X00 device on port 1 (0.05)
+.Looking for IS-X00 device on port 2 (0.19)
+Failed to open \\.\COM2 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 3 (0.20)
+Failed to open \\.\COM3 (Accès refusé.)
+Looking for IS-X00 device on port 4 (0.20)
+.Looking for IS-X00 device on port 5 (0.39)
+.Looking for IS-X00 device on port 6 (0.52)
+Failed to open \\.\COM6 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 7 (0.53)
+Failed to open \\.\COM7 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 8 (0.53)
+Failed to open \\.\COM8 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 9 (0.53)
+Failed to open \\.\COM9 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 10 (0.54)
+Failed to open \\.\COM10 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 11 (0.54)
+Failed to open \\.\COM11 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 12 (0.54)
+Failed to open \\.\COM12 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 13 (0.58)
+Failed to open \\.\COM13 (Le délai de temporisation de sémaphore a expiré.)
+Looking for IS-X00 device on port 14 (5.79)
+.Looking for IS-X00 device on port 15 (5.92)
+Failed to open \\.\COM15 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 16 (5.92)
+Failed to open \\.\COM16 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 17 (5.93)
+Failed to open \\.\COM17 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 18 (5.93)
+Failed to open \\.\COM18 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 19 (5.94)
+Failed to open \\.\COM19 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 20 (5.96)
+Failed to open \\.\COM20 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 21 (5.96)
+Failed to open \\.\COM21 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 22 (5.97)
+Failed to open \\.\COM22 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 23 (5.97)
+Failed to open \\.\COM23 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 24 (5.98)
+Failed to open \\.\COM24 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 25 (5.98)
+Failed to open \\.\COM25 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 26 (5.99)
+Failed to open \\.\COM26 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 27 (5.99)
+Failed to open \\.\COM27 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 28 (6.00)
+Failed to open \\.\COM28 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 29 (6.00)
+Failed to open \\.\COM29 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 30 (6.02)
+Failed to open \\.\COM30 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 31 (6.03)
+Failed to open \\.\COM31 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 32 (6.05)
+Failed to open \\.\COM32 (Le délai de temporisation de sémaphore a expiré.)
+
+Looking for SDP devices (11.18)
+DEVWRN: Device config file not found: isradio.ini
+No HID devices connected
+Failed to set control word on \\.\COM1 (Paramètre incorrect.)
+Failed to set control word on \\.\COM1 (Paramètre incorrect.)
+Failed to open \\.\COM2 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM3 (Accès refusé.)
+Failed to open \\.\COM6 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM7 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM8 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM9 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM10 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM11 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM12 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM13 (Le délai de temporisation de sémaphore a expiré.)
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-0
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-0
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-0
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-1
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-1
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-1
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-2
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-2
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-2
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-3
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-3
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-3
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-4
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-4
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-4
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-0
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-0
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-0
+Failed to open \\.\COM15 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM16 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM17 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM18 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM19 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM20 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM21 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM22 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM23 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM24 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM25 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM26 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM27 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM28 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM29 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM30 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM31 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM32 (Le délai de temporisation de sémaphore a expiré.)
+DEVWRN: SDP initialization failed
+DEVMSG: Failed to set device configuration
+
+No SDP Deviced found (26.51)
+
+Looking for UDP Broadcasts
+  Checking UDP port 5001... NOT FOUND
+  Checking UDP port 5002... NOT FOUND
+  Checking UDP port 5003... NOT FOUND
+  Checking UDP port 5004... SOCKET INIT ERROR
+  Checking UDP port 5004... NOT FOUND
+  Checking UDP port 5005... SOCKET INIT ERROR
+  Checking UDP port 5005... NOT FOUND
+
+InterSense tracker not present
+Finished (27.20)
+
+Wed May 07 08:28:48 2014
+Looking for InterSense tracking device number 1. 
+Please wait 
+Looking for IS-X00 device on port 1 (87.22)
+.Looking for IS-X00 device on port 2 (87.36)
+Failed to open \\.\COM2 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 3 (87.37)
+Failed to open \\.\COM3 (Accès refusé.)
+Looking for IS-X00 device on port 4 (87.37)
+.Looking for IS-X00 device on port 5 (87.57)
+.Looking for IS-X00 device on port 6 (87.69)
+Failed to open \\.\COM6 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 7 (87.70)
+Failed to open \\.\COM7 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 8 (87.70)
+Failed to open \\.\COM8 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 9 (87.71)
+Failed to open \\.\COM9 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 10 (87.71)
+Failed to open \\.\COM10 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 11 (87.71)
+Failed to open \\.\COM11 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 12 (87.72)
+Failed to open \\.\COM12 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 13 (87.72)
+Failed to open \\.\COM13 (Le délai de temporisation de sémaphore a expiré.)
+Looking for IS-X00 device on port 14 (92.93)
+.Looking for IS-X00 device on port 15 (93.06)
+Failed to open \\.\COM15 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 16 (93.07)
+Failed to open \\.\COM16 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 17 (93.07)
+Failed to open \\.\COM17 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 18 (93.07)
+Failed to open \\.\COM18 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 19 (93.08)
+Failed to open \\.\COM19 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 20 (93.08)
+Failed to open \\.\COM20 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 21 (93.09)
+Failed to open \\.\COM21 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 22 (93.09)
+Failed to open \\.\COM22 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 23 (93.10)
+Failed to open \\.\COM23 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 24 (93.10)
+Failed to open \\.\COM24 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 25 (93.10)
+Failed to open \\.\COM25 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 26 (93.11)
+Failed to open \\.\COM26 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 27 (93.11)
+Failed to open \\.\COM27 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 28 (93.12)
+Failed to open \\.\COM28 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 29 (93.12)
+Failed to open \\.\COM29 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 30 (93.12)
+Failed to open \\.\COM30 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 31 (93.13)
+Failed to open \\.\COM31 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 32 (93.13)
+Failed to open \\.\COM32 (Le délai de temporisation de sémaphore a expiré.)
+
+Looking for SDP devices (98.26)
+DEVWRN: Device config file not found: isradio.ini
+No HID devices connected
+Failed to set control word on \\.\COM1 (Paramètre incorrect.)
+Failed to set control word on \\.\COM1 (Paramètre incorrect.)
+Failed to open \\.\COM2 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM3 (Accès refusé.)
+Failed to open \\.\COM6 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM7 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM8 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM9 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM10 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM11 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM12 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM13 (Le délai de temporisation de sémaphore a expiré.)
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-0
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-0
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-0
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-1
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-1
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-1
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-2
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-2
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-2
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-3
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-3
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-3
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-4
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-4
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-4
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-0
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-0
+Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+Write failed on COM14 (Write failed on \\.\COM14 (Une opération d’entrée/sortie avec chevauchement est en cours d’exécution.)
+)
+Error sending command to UNK14-0
+Failed to open \\.\COM15 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM16 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM17 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM18 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM19 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM20 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM21 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM22 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM23 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM24 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM25 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM26 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM27 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM28 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM29 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM30 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM31 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM32 (Le délai de temporisation de sémaphore a expiré.)
+DEVWRN: SDP initialization failed
+DEVMSG: Failed to set device configuration
+
+No SDP Deviced found (113.62)
+
+Looking for UDP Broadcasts
+  Checking UDP port 5001... NOT FOUND
+  Checking UDP port 5002... NOT FOUND
+  Checking UDP port 5003... NOT FOUND
+  Checking UDP port 5004... SOCKET INIT ERROR
+  Checking UDP port 5004... NOT FOUND
+  Checking UDP port 5005... SOCKET INIT ERROR
+  Checking UDP port 5005... NOT FOUND
+
+InterSense tracker not present
+Finished (114.31)
+Dll Unloaded, cleaning up.

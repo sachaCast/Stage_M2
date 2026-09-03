@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Template author="Rainbow, I3S Laboratory (UNS / CNRS)" version="0.0.1">
+	
+	<Config
+		name        = "UPnP Proxy Wizard"
+		icon        = "C#.File.Form"
+		category    = "WComp.NET"
+		defaultname = "UPnPProxy${Number}.cs"
+		language    = "Default">
+		
+		<Wizard path = "/SharpDevelop/Templates/File/UPnPProxyWizard"/>
+		
+	</Config>
+	
+	<Description>Creates a UPnP Device WebService proxy using a wizard.</Description>
+	
+	<Files/>
+	<AdditionalOptions/>
+</Template>

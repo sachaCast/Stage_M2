@@ -1,0 +1,6 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\BackendBindings\FSharpBinding\FSharpBinding.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\BackendBindings\FSharpBinding\Templates\ConsoleProject.xpt
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\BackendBindings\FSharpBinding\Templates\EmptyClass.xft
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\BackendBindings\FSharpBinding\FSharpBinding.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\FSharpBinding\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\FSharpBinding\obj\Release\FSharpBinding.dll

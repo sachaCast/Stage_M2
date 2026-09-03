@@ -1,0 +1,7 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\CodeCoverage.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\UnitTesting.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\CodeCoverage.Tests.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\CodeCoverage.Tests.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\CodeCoverage\Test\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\CodeCoverage\Test\obj\Debug\CodeCoverage.Tests.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\CodeCoverage\Test\obj\Debug\CodeCoverage.Tests.pdb

@@ -1,0 +1,4 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\ICSharpCode.SharpDevelop.BuildWorker.exe.config
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\ICSharpCode.SharpDevelop.BuildWorker.exe
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\ICSharpCode.SharpDevelop.BuildWorker\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\ICSharpCode.SharpDevelop.BuildWorker\obj\Release\ICSharpCode.SharpDevelop.BuildWorker.exe

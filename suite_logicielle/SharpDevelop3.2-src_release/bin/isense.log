@@ -1,0 +1,133 @@
+InterSense Library ver. 4.17 32-bit
+Copyright 1998-2010 InterSense Inc.
+http://www.intersense.com
+Tel: 781-541-6330
+
+Tue Mar 17 13:06:34 2015
+Looking for InterSense tracking device number 1. 
+Please wait 
+Invalid Handle (\\?\hid#vid_046d&pid_c529&mi_00#8&1ef642b6&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030})
+Invalid Handle (\\?\hid#vid_046d&pid_c529&mi_01&col01#8&4e0fb0c&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030})
+Invalid Handle (\\?\hid#vid_046d&pid_c529&mi_01&col02#8&4e0fb0c&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030})
+(iHid) hidOpenDevice. VendorID: 1133; ProductID: 50473
+(iHid) hidOpenDevice. VendorID: 1133, closing handle
+Invalid Handle (\\?\hid#vid_046d&pid_c529&mi_01&col04#8&4e0fb0c&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030})
+(iHid) hidOpenDevice. VendorID: 1133; ProductID: 50473
+(iHid) hidOpenDevice. VendorID: 1133, closing handle
+(iHid) hidOpenDevice. VendorID: 1133; ProductID: 50473
+(iHid) hidOpenDevice. VendorID: 1133, closing handle
+Looking for IS-X00 device on port 1 (0.01)
+.Looking for IS-X00 device on port 2 (0.14)
+Failed to open \\.\COM2 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 3 (0.14)
+Failed to open \\.\COM3 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 4 (0.14)
+Failed to open \\.\COM4 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 5 (0.14)
+Failed to open \\.\COM5 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 6 (0.14)
+Failed to open \\.\COM6 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 7 (0.14)
+Failed to open \\.\COM7 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 8 (0.14)
+Failed to open \\.\COM8 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 9 (0.14)
+Failed to open \\.\COM9 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 10 (0.14)
+Failed to open \\.\COM10 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 11 (0.14)
+Failed to open \\.\COM11 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 12 (0.14)
+Failed to open \\.\COM12 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 13 (0.14)
+Failed to open \\.\COM13 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 14 (0.14)
+Failed to open \\.\COM14 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 15 (0.14)
+Failed to open \\.\COM15 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 16 (0.14)
+Failed to open \\.\COM16 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 17 (0.14)
+Failed to open \\.\COM17 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 18 (0.14)
+Failed to open \\.\COM18 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 19 (0.14)
+Failed to open \\.\COM19 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 20 (0.14)
+Failed to open \\.\COM20 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 21 (0.14)
+Failed to open \\.\COM21 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 22 (0.15)
+Failed to open \\.\COM22 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 23 (0.15)
+Failed to open \\.\COM23 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 24 (0.15)
+Failed to open \\.\COM24 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 25 (0.15)
+Failed to open \\.\COM25 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 26 (0.15)
+Failed to open \\.\COM26 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 27 (0.15)
+Failed to open \\.\COM27 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 28 (0.15)
+Failed to open \\.\COM28 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 29 (0.15)
+Failed to open \\.\COM29 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 30 (0.15)
+Failed to open \\.\COM30 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 31 (0.15)
+Failed to open \\.\COM31 (Le fichier spécifié est introuvable.)
+Looking for IS-X00 device on port 32 (0.15)
+Failed to open \\.\COM32 (Le fichier spécifié est introuvable.)
+
+Looking for SDP devices (0.15)
+DEVWRN: Device config file not found: isradio.ini
+No HID devices connected
+Failed to set control word on \\.\COM1 (Paramètre incorrect.)
+Failed to set control word on \\.\COM1 (Paramètre incorrect.)
+Failed to open \\.\COM2 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM3 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM4 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM5 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM6 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM7 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM8 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM9 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM10 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM11 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM12 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM13 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM14 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM15 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM16 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM17 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM18 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM19 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM20 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM21 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM22 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM23 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM24 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM25 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM26 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM27 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM28 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM29 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM30 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM31 (Le fichier spécifié est introuvable.)
+Failed to open \\.\COM32 (Le fichier spécifié est introuvable.)
+DEVWRN: SDP initialization failed
+DEVMSG: Failed to set device configuration
+
+No SDP Deviced found (1.32)
+
+Looking for UDP Broadcasts
+  Checking UDP port 5001... NOT FOUND
+  Checking UDP port 5002... NOT FOUND
+  Checking UDP port 5003... NOT FOUND
+  Checking UDP port 5004... NOT FOUND
+  Checking UDP port 5005... NOT FOUND
+
+InterSense tracker not present
+Finished (2.34)
+Dll Unloaded, cleaning up.

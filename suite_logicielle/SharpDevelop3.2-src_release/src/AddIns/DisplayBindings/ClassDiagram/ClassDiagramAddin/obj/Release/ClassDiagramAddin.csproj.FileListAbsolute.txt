@@ -1,0 +1,5 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\DisplayBindings\ClassDiagram\Resources\Bitmaps.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\DisplayBindings\ClassDiagram\ClassDiagramAddin.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\DisplayBindings\ClassDiagram\ClassDiagramAddin.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\ClassDiagram\ClassDiagramAddin\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\ClassDiagram\ClassDiagramAddin\obj\Release\ClassDiagramAddin.dll

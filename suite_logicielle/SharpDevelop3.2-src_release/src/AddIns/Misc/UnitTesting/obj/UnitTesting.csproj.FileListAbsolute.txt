@@ -1,0 +1,17 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\UnitTesting\UnitTesting.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\UnitTesting\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\UnitTesting\obj\Debug\ICSharpCode.UnitTesting.Resources.UnitTestingOptionsPanel.xfrm
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\UnitTesting\obj\Debug\ICSharpCode.UnitTesting.Resources.Red.png
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\UnitTesting\obj\Debug\ICSharpCode.UnitTesting.Resources.Green.png
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\UnitTesting\obj\Debug\ICSharpCode.UnitTesting.Resources.Yellow.png
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\UnitTesting\obj\Debug\ICSharpCode.UnitTesting.Resources.Grey.png
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\UnitTesting\obj\Debug\UnitTesting.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\UnitTesting\obj\Debug\UnitTesting.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\UnitTesting\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\UnitTesting\obj\Release\ICSharpCode.UnitTesting.Resources.UnitTestingOptionsPanel.xfrm
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\UnitTesting\obj\Release\ICSharpCode.UnitTesting.Resources.Red.png
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\UnitTesting\obj\Release\ICSharpCode.UnitTesting.Resources.Green.png
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\UnitTesting\obj\Release\ICSharpCode.UnitTesting.Resources.Yellow.png
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\UnitTesting\obj\Release\ICSharpCode.UnitTesting.Resources.Grey.png
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\UnitTesting\obj\Release\UnitTesting.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\UnitTesting\UnitTesting.pdb

@@ -1,0 +1,4 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\SearchAndReplace\SearchAndReplace.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\SearchAndReplace\SearchAndReplace.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SearchAndReplace\Project\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SearchAndReplace\Project\obj\Release\SearchAndReplace.dll

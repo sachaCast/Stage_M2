@@ -1,0 +1,10 @@
+label = label*
+tb = textBox*
+
+advice labtb (label, tb) :
+
+button : System.Windows.Forms.Button
+
+button.^Click -> (label.Hide)
+button.^Click -> (tb.Clear)
+

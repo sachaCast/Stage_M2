@@ -1,0 +1,7 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\SubversionAddin\ICSharpCode.Svn.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\SubversionAddin\SubversionAddIn.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SubversionAddIn\Project\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SubversionAddIn\Project\obj\Release\ICSharpCode.Svn.DiffPanel.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SubversionAddIn\Project\obj\Release\ICSharpCode.Svn.InfoPanel.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SubversionAddIn\Project\obj\Release\SubversionAddIn.csproj.GenerateResource.Cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SubversionAddIn\Project\obj\Release\SubversionAddIn.dll

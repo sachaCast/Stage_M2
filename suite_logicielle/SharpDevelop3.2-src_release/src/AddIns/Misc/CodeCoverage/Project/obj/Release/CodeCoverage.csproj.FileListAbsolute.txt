@@ -1,0 +1,4 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\CodeCoverage\CodeCoverage.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\CodeCoverage\CodeCoverage.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\CodeCoverage\Project\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\CodeCoverage\Project\obj\Release\CodeCoverage.dll

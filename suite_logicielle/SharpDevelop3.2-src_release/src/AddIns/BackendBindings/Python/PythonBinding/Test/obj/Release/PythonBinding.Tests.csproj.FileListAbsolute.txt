@@ -1,0 +1,17 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\Templates\Empty.xft
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\Lib\site.py
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\Templates\EmptyForm.xft
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\Lib\runpy.py
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\Templates\ConsoleProject.xpt
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\Templates\EmptyClass.xft
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\Templates\LibraryProject.xpt
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\Lib\__future__.py
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\Templates\EmptyUserControl.xft
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\PythonBinding.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\Templates\FormsProject.xpt
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\PythonBinding.Tests.dll.config
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\PythonBinding.Tests.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\Python\PythonBinding\Test\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\Python\PythonBinding\Test\obj\Release\PythonBinding.Tests.Strings.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\Python\PythonBinding\Test\obj\Release\PythonBinding.Tests.csproj.GenerateResource.Cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\Python\PythonBinding\Test\obj\Release\PythonBinding.Tests.dll

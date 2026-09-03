@@ -1,0 +1,8 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\NRefactoryToBooConverter.Tests.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\NRefactoryToBooConverter.Tests.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Test\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Test\obj\Debug\NRefactoryToBooConverter.Tests.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Test\obj\Debug\NRefactoryToBooConverter.Tests.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Test\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Test\obj\Release\NRefactoryToBooConverter.Tests.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Test\obj\Release\NRefactoryToBooConverter.Tests.pdb

@@ -1,0 +1,6 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\DisplayBindings\HexEditor\HexEditor.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\DisplayBindings\HexEditor\HexEditor.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\HexEditor\Project\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\HexEditor\Project\obj\Release\HexEditor.View.HexEditContainer.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\HexEditor\Project\obj\Release\HexEditor.csproj.GenerateResource.Cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\HexEditor\Project\obj\Release\HexEditor.dll

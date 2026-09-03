@@ -1,0 +1,11 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\PInvokeAddIn\signatures.xml
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\PInvokeAddIn\PInvoke.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\PInvokeAddIn\PInvokeAddIn.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\PInvokeAddIn\Project\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\PInvokeAddIn\Project\obj\Debug\PInvokeAddIn.Resources.InsertPInvokeSignaturesForm.xfrm
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\PInvokeAddIn\Project\obj\Debug\PInvokeAddIn.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\PInvokeAddIn\Project\obj\Debug\PInvokeAddIn.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\PInvokeAddIn\Project\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\PInvokeAddIn\Project\obj\Release\PInvokeAddIn.Resources.InsertPInvokeSignaturesForm.xfrm
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\PInvokeAddIn\Project\obj\Release\PInvokeAddIn.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\PInvokeAddIn\PInvokeAddIn.pdb

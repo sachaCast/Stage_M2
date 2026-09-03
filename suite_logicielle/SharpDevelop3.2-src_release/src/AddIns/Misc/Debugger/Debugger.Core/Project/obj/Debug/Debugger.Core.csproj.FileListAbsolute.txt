@@ -1,0 +1,5 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\Debugger\Debugger.Core.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\Debugger\Debugger.Core.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\Debugger\Debugger.Core\Project\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\Debugger\Debugger.Core\Project\obj\Debug\Debugger.Core.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\Debugger\Debugger.Core\Project\obj\Debug\Debugger.Core.pdb

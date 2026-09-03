@@ -1,0 +1,60 @@
+SharpWComp End User License Agreement (EULA)
+
+END-USER LICENSE AGREEMENT FOR SharpWComp.
+
+IMPORTANT: PLEASE READ THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT CAREFULLY BEFORE CONTINUING WITH THIS PROGRAM INSTALL. BY CLICKING ON THE “ACCEPT” BUTTON, IT IS ASSUMED THAT YOU UNDERSTAND AND AGREE THE FOLLOWING LICENCE AGREEMENT.
+
+End-User License Agreement ("EULA") of Université de Nice Sophia Antipolis (UNS – “French University of Nice Sophia Antipolis”) and Centre National de la Recherche Scientifique (CNRS – French “National Center for Scientific Research”) is a legal agreement between you (either an individual or a single entity) and the UNS/CNRS, for the SharpWComp software product identified above which may include associated software components, media, printed materials, and "online" or electronic documentation ("SOFTWARE PRODUCT"). By installing, copying, or otherwise using the SOFTWARE PRODUCT, you agree to be bound by the terms of this EULA. This license agreement represents the entire agreement concerning the program between you and UNS/CNRS, (referred to as "licenser"), and it supersedes any prior proposal, representation, or understanding between the parties. If you do not agree to the terms of this EULA, do not install or use the SOFTWARE PRODUCT.
+
+The SOFTWARE PRODUCT is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. The SOFTWARE PRODUCT is licensed, not sold.
+
+1 GRANT OF LICENSE
+The SOFTWARE PRODUCT is licensed as follows: 
+
+1.1 Installation and Use
+UNS and CNRS grants you the right to install and use copies of the SOFTWARE PRODUCT on your computer running a validly licensed copy of the operating system for which the SOFTWARE PRODUCT was designed [e.g., Windows 98, Windows 2000, Windows 2003, Windows XP, Windows ME, Windows Vista, Windows 7, Windows 8, Max OS.X and Linux].
+
+1.2 Backup Copies
+You may also make copies of the SOFTWARE PRODUCT as may be necessary for backup and archival purposes.
+
+1.3 Advertizing clause, credits and feedback
+All advertising materials mentioning features or use of this software must display the following acknowledgement: “This product has been developed with the contribution of Rainbow Research team, I3S Laboratory of University of Nice Sophia Antipolis and the French National Center for Scientific Research”.
+
+To reference Software in any publication, the following is a reference to the paper:
+
+Nicolas Ferry, Vincent Hourdin, Stéphane Lavirotte, Gaëtan Rey, Michel Riveill et Jean-Yves Tigli. « WComp, a Middlewate for Ubiquitous Computing ».  Dans Ubiquitous Computing, chapitre 8, pages 151-176, InTech. 2011. 978-853-307-409-2.
+
+2 DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS
+
+2.1 Maintenance of Copyright Notices
+You must not remove or alter any copyright notices on any and all copies of the SOFTWARE PRODUCT.
+
+2.2 Distribution
+You may not distribute registered copies of the SOFTWARE PRODUCT to third parties.
+
+2.3 Prohibition on Reverse Engineering, Decompilation, and Disassembly.
+You may not reverse engineer, decompile, or disassemble the SOFTWARE PRODUCT, except and only to the extent that such activity is expressly permitted by applicable law not withstanding this limitation.
+
+2.4 Rental
+You may not rent, lease, or lend the SOFTWARE PRODUCT.
+
+2.5 Support Services
+UNS and CNRS do not provide any support services related to the SOFTWARE PRODUCT ("Support Services"). Any supplemental software code provided to you as part of the Support Services shall be considered part of the SOFTWARE PRODUCT and subject to the terms and conditions of this EULA.
+
+2.6 Compliance with Applicable Laws
+You must comply with all applicable laws regarding use of the SOFTWARE PRODUCT.
+
+3 TERMINATION 
+Without prejudice to any other rights, UNS and CNRS may terminate this EULA if you fail to comply with the terms and conditions of this EULA. In such event, you must destroy all copies of the SOFTWARE PRODUCT in your possession.
+
+4 COPYRIGHT
+All title, including but not limited to copyrights, in and to the SOFTWARE PRODUCT and any copies thereof are owned by UNS and CNRS or its suppliers. All title and intellectual property rights in and to the content which may be accessed through use of the SOFTWARE PRODUCT is the property of the respective content owner and may be protected by applicable copyright or other intellectual property laws and treaties. This EULA grants you no rights to use such content. All rights not expressly granted are reserved by UNS and CNRS.
+
+5 NO WARRANTIES
+UNS and CNRS expressly disclaim any warranty for the SOFTWARE PRODUCT. The SOFTWARE PRODUCT is provided 'As Is' without any express or implied warranty of any kind, including but not limited to any warranties of merchantability, no infringement, or fitness of a particular purpose. UNS and CNRS do not warrant or assume responsibility for the accuracy or completeness of any information, text, graphics, links or other items contained within the SOFTWARE PRODUCT. UNS and CNRS make no warranties respecting any harm that may be caused by the transmission of a computer virus, worm, time bomb, logic bomb, or other such computer program. UNS and CNRS further expressly disclaim any warranty or representation to Authorized Users or to any third party.
+
+6 LIMITATION OF LIABILITY
+In no event shall UNS and CNRS be liable for any damages (including, without limitation, lost profits, business interruption, or lost information) rising out of 'Authorized Users' use of or inability to use the SOFTWARE PRODUCT, even if UNS and CNRS have been advised of the possibility of such damages. In no event will UNS and CNRS be liable for loss of data or for indirect, special, incidental, consequential (including lost profit), or other damages based in contract, tort or otherwise. UNS and CNRS shall have no liability with respect to the content of the SOFTWARE PRODUCT or any part thereof, including but not limited to errors or omissions contained therein, libel, infringements of rights of publicity, privacy, trademark rights, business interruption, personal injury, loss of privacy, moral rights or the disclosure of confidential information.
+
+7 DISCLAIMER
+This software is provided by the copyright holders and contributors "as is" and any express or implied warranties, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose are disclaimed. In no event shall the copyright owner or contributors be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this software, even if advised of the possibility of such damage.

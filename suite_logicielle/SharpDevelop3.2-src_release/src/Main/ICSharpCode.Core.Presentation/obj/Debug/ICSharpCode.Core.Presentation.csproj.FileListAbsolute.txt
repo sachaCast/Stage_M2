@@ -1,0 +1,11 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\ICSharpCode.Core.Presentation.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\ICSharpCode.Core.Presentation.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\ICSharpCode.Core.Presentation\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\ICSharpCode.Core.Presentation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\ICSharpCode.Core.Presentation\obj\Debug\ICSharpCode.Core.Presentation_MarkupCompile.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\ICSharpCode.Core.Presentation\obj\Debug\ICSharpCode.Core.Presentation_MarkupCompile.lref
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\ICSharpCode.Core.Presentation\obj\Debug\themes\Aero.NormalColor.baml
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\ICSharpCode.Core.Presentation\obj\Debug\themes\generic.baml
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\ICSharpCode.Core.Presentation\obj\Debug\ICSharpCode.Core.Presentation.g.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\ICSharpCode.Core.Presentation\obj\Debug\ICSharpCode.Core.Presentation.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\ICSharpCode.Core.Presentation\obj\Debug\ICSharpCode.Core.Presentation.pdb

@@ -1,0 +1,7 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\SearchAndReplace.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\SearchAndReplace.Tests.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SearchAndReplace\Test\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SearchAndReplace\Test\obj\Debug\SearchAndReplace.Tests.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SearchAndReplace\Test\obj\Debug\SearchAndReplace.Tests.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SearchAndReplace\Test\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SearchAndReplace\Test\obj\Release\SearchAndReplace.Tests.dll

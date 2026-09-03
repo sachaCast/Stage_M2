@@ -1,0 +1,4 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\XamlBinding.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\ICSharpCode.XamlBinding.Tests.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\Xaml\XamlBinding.Tests\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\Xaml\XamlBinding.Tests\obj\Release\ICSharpCode.XamlBinding.Tests.dll

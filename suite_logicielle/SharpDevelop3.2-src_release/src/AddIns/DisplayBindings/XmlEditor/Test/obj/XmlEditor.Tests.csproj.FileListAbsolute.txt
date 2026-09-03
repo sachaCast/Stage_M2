@@ -1,0 +1,13 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\XmlEditor.Tests.dll.config
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\XmlEditor.Tests.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\XmlEditor.Tests.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\XmlEditor\Test\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\XmlEditor\Test\obj\Debug\XmlEditor.Tests.Resources.xhtml1-strict-modified.xsd
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\XmlEditor\Test\obj\Debug\XmlEditor.Tests.Resources.XMLSchema.xsd
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\XmlEditor\Test\obj\Debug\XmlEditor.Tests.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\XmlEditor\Test\obj\Debug\XmlEditor.Tests.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\XmlEditor\Test\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\XmlEditor\Test\obj\Release\XmlEditor.Tests.Resources.xhtml1-strict-modified.xsd
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\XmlEditor\Test\obj\Release\XmlEditor.Tests.Resources.XMLSchema.xsd
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\XmlEditor\Test\obj\Release\XmlEditor.Tests.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\XmlEditor\Test\obj\Release\XmlEditor.Tests.pdb

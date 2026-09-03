@@ -1,0 +1,40 @@
+<!-- WARNING: EDITING THIS FILE REQUIRES EDITING THE .template FILE TOO -->
+
+<AddIn name        = "UPnP Proxy Wizard"
+       author      = "Rainbow, I3S Laboratory (UNS / CNRS)"
+       url         = "http://www.wcomp.fr/"
+       description = "Creates a UPnP Device WebService bean proxy for WComp using a wizard">
+
+	<Manifest>
+		<Identity name="UPnPProxyWizard" version="3.2.2.1427"/>
+		<Dependency addin="SharpDevelop" version="3.2.1.6466"/>
+		<Dependency addin="WCompAddin" version="3.2.2.1427"/>
+	</Manifest>
+
+	<Runtime>
+		<Import assembly="UPnPProxyWizard.dll"/>
+	</Runtime>
+	
+	<Path name="/SharpDevelop/Templates/File/UPnPProxyWizard">
+		<DialogPanel id = "UPnPDevice"
+		             label = "UPnP Device Selection"
+		             class = "UPnPProxyWizard.UPnPDevicePanel"/>
+		
+		<DialogPanel id = "GenerationConfig"
+		             label = "Generation Configuration"
+		             class = "UPnPProxyWizard.DeviceGenerationPanel"/>
+		             -->
+	</Path>
+
+<!--
+	<Extension path = "/SharpDevelop/Workbench/MainMenu">
+            <MenuItem id = "WCompNet-UPnP" insertafter="View" insertbefore="Tools" label="WComp.NET-UPnP">
+                <MenuItem id = "UPnPDevice" label = "Select UPnP Device..." 
+		             class = "UPnPProxyWizard.UPnPDevicePanel"/>
+                <MenuItem id = "GenerationConfig" label = "Generation Configuration..." 
+		             class = "UPnPProxyWizard.DeviceGenerationPanel"/>
+            </MenuItem>
+	</Extension>
+-->
+</AddIn>
+

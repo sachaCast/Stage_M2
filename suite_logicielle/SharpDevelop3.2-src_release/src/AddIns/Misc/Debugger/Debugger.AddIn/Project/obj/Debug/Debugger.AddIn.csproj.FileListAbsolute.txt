@@ -1,0 +1,11 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\Debugger\Debugger.AddIn.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\Debugger\Debugger.AddIn.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\Debugger\Debugger.AddIn\Project\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\Debugger\Debugger.AddIn\Project\obj\Debug\ICSharpCode.SharpDevelop.Services.DebuggeeExceptionForm.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\Debugger\Debugger.AddIn\Project\obj\Debug\ICSharpCode.SharpDevelop.Gui.OptionPanels.DebuggingOptionsPanel.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\Debugger\Debugger.AddIn\Project\obj\Debug\ICSharpCode.SharpDevelop.Gui.OptionPanels.DebuggingSymbolsPanel.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\Debugger\Debugger.AddIn\Project\obj\Debug\ICSharpCode.SharpDevelop.Services.DebuggerEventForm.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\Debugger\Debugger.AddIn\Project\obj\Debug\Debugger.AddIn.Service.EditBreakpointScriptForm.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\Debugger\Debugger.AddIn\Project\obj\Debug\Debugger.AddIn.csproj.GenerateResource.Cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\Debugger\Debugger.AddIn\Project\obj\Debug\Debugger.AddIn.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\Debugger\Debugger.AddIn\Project\obj\Debug\Debugger.AddIn.pdb

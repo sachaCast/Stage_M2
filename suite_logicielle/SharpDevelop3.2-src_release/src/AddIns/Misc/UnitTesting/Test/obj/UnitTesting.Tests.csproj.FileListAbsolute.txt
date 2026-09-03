@@ -1,0 +1,7 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\SharpDevelop.exe
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\UnitTesting.Tests.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\UnitTesting\Test\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\UnitTesting\Test\obj\Debug\UnitTesting.Tests.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\UnitTesting\Test\obj\Debug\UnitTesting.Tests.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\UnitTesting\Test\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\UnitTesting\Test\obj\Release\UnitTesting.Tests.dll

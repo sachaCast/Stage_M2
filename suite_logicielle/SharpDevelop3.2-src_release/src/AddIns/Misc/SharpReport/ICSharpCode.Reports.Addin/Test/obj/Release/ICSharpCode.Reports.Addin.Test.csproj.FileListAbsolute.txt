@@ -1,0 +1,5 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\ICSharpCode.ReportDesigner.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\EmptyReport.xft
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\ICSharpCode.Reports.Addin.Test.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SharpReport\ICSharpCode.Reports.Addin\Test\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SharpReport\ICSharpCode.Reports.Addin\Test\obj\Release\ICSharpCode.Reports.Addin.Test.dll

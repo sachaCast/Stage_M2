@@ -1,0 +1,8 @@
+gps = *?type=Observable.ObservablePosition
+disp = *?type=Afficheur.AfficheurPosition
+
+advice gps_semantic(gps, disp) :
+
+gps.^Latitude_Event -> (disp.SetLatitude)
+gps.^Longitude_Event -> (disp.SetLongitude)
+

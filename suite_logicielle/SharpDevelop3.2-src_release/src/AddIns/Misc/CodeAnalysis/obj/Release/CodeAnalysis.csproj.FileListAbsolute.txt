@@ -1,0 +1,6 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\CodeAnalysis\CodeAnalysis.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\CodeAnalysis\CodeAnalysis.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\CodeAnalysis\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\CodeAnalysis\obj\Release\ICSharpCode.CodeAnalysis.AnalysisProjectOptions.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\CodeAnalysis\obj\Release\CodeAnalysis.csproj.GenerateResource.Cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\CodeAnalysis\obj\Release\CodeAnalysis.dll

@@ -1,0 +1,5 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\ICSharpCode.SharpDevelop.Dom.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\ICSharpCode.SharpDevelop.Dom.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\ICSharpCode.SharpDevelop.Dom\Project\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\ICSharpCode.SharpDevelop.Dom\Project\obj\Debug\ICSharpCode.SharpDevelop.Dom.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\ICSharpCode.SharpDevelop.Dom\Project\obj\Debug\ICSharpCode.SharpDevelop.Dom.pdb

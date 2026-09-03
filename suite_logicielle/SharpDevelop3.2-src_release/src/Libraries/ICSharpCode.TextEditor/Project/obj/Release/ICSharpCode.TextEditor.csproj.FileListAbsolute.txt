@@ -1,0 +1,3 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\ICSharpCode.TextEditor.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Libraries\ICSharpCode.TextEditor\Project\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Libraries\ICSharpCode.TextEditor\Project\obj\Release\ICSharpCode.TextEditor.dll

@@ -1,0 +1,4 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\HtmlHelp2\HtmlHelp2.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\HtmlHelp2\HtmlHelp2.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\HtmlHelp2\Project\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\HtmlHelp2\Project\obj\Release\HtmlHelp2.dll

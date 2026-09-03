@@ -1,0 +1,8 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\ICSharpCode.Core.Tests.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\ICSharpCode.Core.Tests.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\Core\Test\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\Core\Test\obj\Debug\ICSharpCode.Core.Tests.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\Core\Test\obj\Debug\ICSharpCode.Core.Tests.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\Core\Test\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\Core\Test\obj\Release\ICSharpCode.Core.Tests.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\Core\Test\obj\Release\ICSharpCode.Core.Tests.pdb

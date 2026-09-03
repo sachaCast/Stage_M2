@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Template originator   = "Rainbow, I3S Laboratory (UNS / CNRS)"
+          created      = "26/05/2006"
+          lastModified = "06/05/2010">
+
+	<TemplateConfiguration>
+		<Name>Wcomp Bean Solution</Name>
+		<Category>WComp.NET</Category>
+		<Icon>C#.Project.Library</Icon>
+		<Description>${res:Templates.Project.ClassLibrary.Description}</Description>
+	</TemplateConfiguration>
+	
+	<Project language = "C#">
+		<ProjectItems>
+			<Reference Include="Beans" />
+			<Import Include="Beans" />
+		</ProjectItems>
+		<PropertyGroup>
+			<OutputType>Library</OutputType>
+		</PropertyGroup>
+		<Files>
+			<File name="AssemblyInfo.cs" src="..\CSharp\DefaultAssemblyInfo.cs" />
+		</Files>
+	</Project>
+</Template>

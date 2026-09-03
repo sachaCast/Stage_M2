@@ -1,0 +1,15 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\bin\Debug\ClassCanvas.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\bin\Debug\ClassCanvas.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\bin\Debug\Diagrams.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\bin\Debug\Diagrams.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\obj\Debug\ClassDiagram.ClassCanvas.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\obj\Debug\ClassCanvas.csproj.GenerateResource.Cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\obj\Debug\ClassCanvas.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\obj\Debug\ClassCanvas.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\bin\Release\ClassCanvas.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\bin\Release\Diagrams.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\obj\Release\ClassDiagram.ClassCanvas.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\obj\Release\ClassCanvas.csproj.GenerateResource.Cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\obj\Release\ClassCanvas.dll

@@ -1,0 +1,8 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\ClassDiagram\DiagramRouter\bin\Debug\Diagrams.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\ClassDiagram\DiagramRouter\bin\Debug\Diagrams.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\ClassDiagram\DiagramRouter\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\ClassDiagram\DiagramRouter\obj\Debug\Diagrams.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\ClassDiagram\DiagramRouter\obj\Debug\Diagrams.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\ClassDiagram\DiagramRouter\bin\Release\Diagrams.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\ClassDiagram\DiagramRouter\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\ClassDiagram\DiagramRouter\obj\Release\Diagrams.dll

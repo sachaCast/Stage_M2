@@ -1,0 +1,5 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\ICSharpCode.NRefactory.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\ICSharpCode.NRefactory.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Libraries\NRefactory\Project\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Libraries\NRefactory\Project\obj\Debug\ICSharpCode.NRefactory.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Libraries\NRefactory\Project\obj\Debug\ICSharpCode.NRefactory.pdb

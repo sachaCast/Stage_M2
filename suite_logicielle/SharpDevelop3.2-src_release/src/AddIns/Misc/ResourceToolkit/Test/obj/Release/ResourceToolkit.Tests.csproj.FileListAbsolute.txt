@@ -1,0 +1,6 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\VBNetBinding.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\CSharpBinding.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\Hornung.ResourceToolkit.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\ResourceToolkit.Tests.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\ResourceToolkit\Test\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\ResourceToolkit\Test\obj\Release\ResourceToolkit.Tests.dll

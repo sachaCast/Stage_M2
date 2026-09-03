@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sacha\\OneDrive\\Bureau\\stage dossier partag\u00E9s\\testWizardDesigner\\testWizardDesigner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA8D6E9-B9BC-4660-8BCE-607CF6D5F9DB}|UPnPWizardDesigner_clean.csproj|c:\\users\\sacha\\onedrive\\bureau\\stage dossier partag\u00E9s\\testwizarddesigner\\testwizarddesigner\\upnpwizarddesigner\\upnpdevicepanel.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{4DA8D6E9-B9BC-4660-8BCE-607CF6D5F9DB}|UPnPWizardDesigner_clean.csproj|solutionrelative:upnpwizarddesigner\\upnpdevicepanel.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA8D6E9-B9BC-4660-8BCE-607CF6D5F9DB}|UPnPWizardDesigner_clean.csproj|c:\\users\\sacha\\onedrive\\bureau\\stage dossier partag\u00E9s\\testwizarddesigner\\testwizarddesigner\\upnpwizarddesigner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA8D6E9-B9BC-4660-8BCE-607CF6D5F9DB}|UPnPWizardDesigner_clean.csproj|solutionrelative:upnpwizarddesigner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|UPnPWizardDesigner_clean||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA8D6E9-B9BC-4660-8BCE-607CF6D5F9DB}|UPnPWizardDesigner_clean.csproj|c:\\users\\sacha\\onedrive\\bureau\\stage dossier partag\u00E9s\\testwizarddesigner\\testwizarddesigner\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UPnPDevicePanel.resx",
+              "DocumentMoniker": "C:\\Users\\sacha\\OneDrive\\Bureau\\stage dossier partag\u00E9s\\testWizardDesigner\\testWizardDesigner\\UPnPWizardDesigner\\UPnPDevicePanel.resx",
+              "RelativeDocumentMoniker": "UPnPWizardDesigner\\UPnPDevicePanel.resx",
+              "ToolTip": "C:\\Users\\sacha\\OneDrive\\Bureau\\stage dossier partag\u00E9s\\testWizardDesigner\\testWizardDesigner\\UPnPWizardDesigner\\UPnPDevicePanel.resx",
+              "RelativeToolTip": "UPnPWizardDesigner\\UPnPDevicePanel.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-09-02T11:16:05.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UPnPWizardDesigner_clean",
+              "DocumentMoniker": "C:\\Users\\sacha\\OneDrive\\Bureau\\stage dossier partag\u00E9s\\testWizardDesigner\\testWizardDesigner\\UPnPWizardDesigner_clean.csproj",
+              "RelativeDocumentMoniker": "UPnPWizardDesigner_clean.csproj",
+              "ToolTip": "C:\\Users\\sacha\\OneDrive\\Bureau\\stage dossier partag\u00E9s\\testWizardDesigner\\testWizardDesigner\\UPnPWizardDesigner_clean.csproj",
+              "RelativeToolTip": "UPnPWizardDesigner_clean.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-02T11:16:00.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sacha\\OneDrive\\Bureau\\stage dossier partag\u00E9s\\testWizardDesigner\\testWizardDesigner\\UPnPWizardDesigner\\Program.cs",
+              "RelativeDocumentMoniker": "UPnPWizardDesigner\\Program.cs",
+              "ToolTip": "C:\\Users\\sacha\\OneDrive\\Bureau\\stage dossier partag\u00E9s\\testWizardDesigner\\testWizardDesigner\\UPnPWizardDesigner\\Program.cs",
+              "RelativeToolTip": "UPnPWizardDesigner\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T11:15:53.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

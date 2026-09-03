@@ -1,0 +1,15 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\SharpDevelopReports\EmptyReport.xft
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\SharpDevelopReports\ICSharpCode.ReportDesigner.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\SharpDevelopReports\ICSharpCode.Reports.Addin.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SharpReport\ICSharpCode.Reports.Addin\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SharpReport\ICSharpCode.Reports.Addin\obj\Release\Interop.ADODB.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SharpReport\ICSharpCode.Reports.Addin\obj\Release\Interop.MSDASC.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SharpReport\ICSharpCode.Reports.Addin\obj\Release\ICSharpCode.Reports.Addin.csproj.ResolveComReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SharpReport\ICSharpCode.Reports.Addin\obj\Release\ICSharpCode.Reports.Addin.ExpressionEditor.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SharpReport\ICSharpCode.Reports.Addin\obj\Release\ICSharpCode.Reports.Addin.AbstractItem.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SharpReport\ICSharpCode.Reports.Addin\obj\Release\ICSharpCode.Reports.Addin.ReportWizard.LayoutPanelControl.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SharpReport\ICSharpCode.Reports.Addin\obj\Release\ICSharpCode.Reports.Addin.ReportWizard.PullModelPanel.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SharpReport\ICSharpCode.Reports.Addin\obj\Release\ICSharpCode.Reports.Addin.Project.ReportWizard.WizardPanels.PushModelPanel.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SharpReport\ICSharpCode.Reports.Addin\obj\Release\ICSharpCode.Reports.Addin.Project.ReportWizard.WizardPanels.ResultPanel.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SharpReport\ICSharpCode.Reports.Addin\obj\Release\ICSharpCode.Reports.Addin.csproj.GenerateResource.Cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\SharpReport\ICSharpCode.Reports.Addin\obj\Release\ICSharpCode.Reports.Addin.dll

@@ -1,0 +1,8 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\HtmlHelp2\JScriptGlobals\bin\Debug\HtmlHelp2JScriptGlobals.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\HtmlHelp2\JScriptGlobals\bin\Debug\HtmlHelp2JScriptGlobals.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\HtmlHelp2\JScriptGlobals\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\HtmlHelp2\JScriptGlobals\obj\Debug\HtmlHelp2JScriptGlobals.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\HtmlHelp2\JScriptGlobals\obj\Debug\HtmlHelp2JScriptGlobals.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\HtmlHelp2\JScriptGlobals\bin\Release\HtmlHelp2JScriptGlobals.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\HtmlHelp2\JScriptGlobals\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\HtmlHelp2\JScriptGlobals\obj\Release\HtmlHelp2JScriptGlobals.dll

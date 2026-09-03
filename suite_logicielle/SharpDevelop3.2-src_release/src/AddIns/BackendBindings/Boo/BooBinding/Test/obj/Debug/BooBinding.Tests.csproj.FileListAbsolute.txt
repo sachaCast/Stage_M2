@@ -1,0 +1,16 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\Templates\Empty.xft
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\Templates\Form.xft
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\Templates\FormsProject.xpt
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\Templates\ConsoleProject.xpt
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\Templates\EmptyClass.xft
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\Templates\Library.xpt
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\BooBinding.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\Templates\DefaultAssemblyInfo.boo
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\log4net.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\ICSharpCode.Core.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\ICSharpCode.SharpDevelop.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\BooBinding.Tests.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\BooBinding.Tests.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\Boo\BooBinding\Test\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\Boo\BooBinding\Test\obj\Debug\BooBinding.Tests.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\Boo\BooBinding\Test\obj\Debug\BooBinding.Tests.pdb

@@ -1,0 +1,27 @@
+<!-- WARNING: EDITING THIS FILE REQUIRES EDITING THE .template FILE TOO -->
+
+<AddIn name        = "SOAP Proxy Wizard"
+       author      = "Rainbow, I3S Laboratory (UNS / CNRS)"
+       url         = "http://www.wcomp.fr/"
+       description = "Creates a SOAP WebService bean proxy for WComp using a wizard">
+
+	<Manifest>
+		<Identity name="SOAPProxyWizard" version="3.2.2.1427"/>
+		<Dependency addin="SharpDevelop" version="3.2.1.6466" />
+		<Dependency addin="WCompAddin" version="3.2.2.1427"/>
+	</Manifest>
+	
+	<Runtime>
+		<Import assembly="SOAPProxyWizard.dll"/>
+	</Runtime>
+	
+	<Path name="/SharpDevelop/Templates/File/SOAPProxyWizard">
+		<DialogPanel id = "OutputSettings"
+		             label = "Output Settings"
+		             class = "SOAPProxyWizard.BasicPanel"/>
+		<DialogPanel id = "Advanced"
+		             label = "Advanced"
+		             class = "SOAPProxyWizard.AdvancedPanel"/>
+	</Path>
+</AddIn>
+

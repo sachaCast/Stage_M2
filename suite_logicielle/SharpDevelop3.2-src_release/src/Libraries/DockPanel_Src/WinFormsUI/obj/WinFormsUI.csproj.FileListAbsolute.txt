@@ -1,0 +1,16 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\WeifenLuo.WinFormsUI.Docking.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\WeifenLuo.WinFormsUI.Docking.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Libraries\DockPanel_Src\WinFormsUI\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Libraries\DockPanel_Src\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.DockPanel.bmp
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Libraries\DockPanel_Src\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Resources.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Libraries\DockPanel_Src\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Strings.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Libraries\DockPanel_Src\WinFormsUI\obj\Debug\WinFormsUI.csproj.GenerateResource.Cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Libraries\DockPanel_Src\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Libraries\DockPanel_Src\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Libraries\DockPanel_Src\WinFormsUI\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Libraries\DockPanel_Src\WinFormsUI\obj\Release\WeifenLuo.WinFormsUI.Docking.DockPanel.bmp
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Libraries\DockPanel_Src\WinFormsUI\obj\Release\WeifenLuo.WinFormsUI.Docking.Resources.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Libraries\DockPanel_Src\WinFormsUI\obj\Release\WeifenLuo.WinFormsUI.Docking.Strings.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Libraries\DockPanel_Src\WinFormsUI\obj\Release\WinFormsUI.csproj.GenerateResource.Cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Libraries\DockPanel_Src\WinFormsUI\obj\Release\WeifenLuo.WinFormsUI.Docking.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Libraries\DockPanel_Src\WinFormsUI\obj\Release\WeifenLuo.WinFormsUI.Docking.pdb

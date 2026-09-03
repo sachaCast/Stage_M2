@@ -1,0 +1,5 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\ICSharpCode.SharpDevelop.Widgets.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\ICSharpCode.SharpDevelop.Widgets.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\ICSharpCode.SharpDevelop.Widgets.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\ICSharpCode.SharpDevelop.Widgets.pdb

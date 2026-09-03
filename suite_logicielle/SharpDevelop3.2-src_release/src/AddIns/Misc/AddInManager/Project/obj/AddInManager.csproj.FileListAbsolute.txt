@@ -1,0 +1,14 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\AddInManager\AddInManager.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\AddInManager\ICSharpCode.AddInManager.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\AddInManager\Project\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\AddInManager\Project\obj\Debug\ICSharpCode.AddInManager.ManagerForm.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\AddInManager\Project\obj\Debug\ICSharpCode.AddInManager.AboutForm.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\AddInManager\Project\obj\Debug\AddInManager.csproj.GenerateResource.Cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\AddInManager\Project\obj\Debug\ICSharpCode.AddInManager.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\AddInManager\Project\obj\Debug\ICSharpCode.AddInManager.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\AddInManager\Project\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\AddInManager\Project\obj\Release\ICSharpCode.AddInManager.ManagerForm.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\AddInManager\Project\obj\Release\ICSharpCode.AddInManager.AboutForm.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\AddInManager\Project\obj\Release\AddInManager.csproj.GenerateResource.Cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\AddInManager\Project\obj\Release\ICSharpCode.AddInManager.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\AddInManager\ICSharpCode.AddInManager.pdb

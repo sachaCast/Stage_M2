@@ -1,0 +1,8 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\AddinScout\AddInScout.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\AddinScout\AddinScout.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\AddinScout\Project\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\AddinScout\Project\obj\Debug\AddinScout.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\AddinScout\Project\obj\Debug\AddinScout.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\AddinScout\Project\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\AddinScout\Project\obj\Release\AddinScout.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\AddinScout\AddinScout.pdb

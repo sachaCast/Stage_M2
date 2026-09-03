@@ -1,0 +1,15 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\DisplayBindings\IconEditor\IconEditor.exe
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\IconEditor\IconEditor\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\IconEditor\IconEditor\obj\Debug\IconEditor.MainForm.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\IconEditor\IconEditor\obj\Debug\IconEditor.IconPanel.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\IconEditor\IconEditor\obj\Debug\IconEditor.EditorPanel.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\IconEditor\IconEditor\obj\Debug\IconEditor.csproj.GenerateResource.Cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\IconEditor\IconEditor\obj\Debug\IconEditor.exe
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\IconEditor\IconEditor\obj\Debug\IconEditor.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\IconEditor\IconEditor\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\IconEditor\IconEditor\obj\Release\IconEditor.MainForm.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\IconEditor\IconEditor\obj\Release\IconEditor.IconPanel.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\IconEditor\IconEditor\obj\Release\IconEditor.EditorPanel.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\IconEditor\IconEditor\obj\Release\IconEditor.csproj.GenerateResource.Cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\DisplayBindings\IconEditor\IconEditor\obj\Release\IconEditor.exe
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\DisplayBindings\IconEditor\IconEditor.pdb

@@ -1,0 +1,6 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\ReflectorAddIn\ReflectorAddIn.addin
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\AddIns\AddIns\Misc\ReflectorAddIn\ReflectorAddIn.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\ReflectorAddIn\ReflectorAddIn\Project\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\ReflectorAddIn\ReflectorAddIn\Project\obj\Release\ReflectorAddIn.SetReflectorPathDialog.resources
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\ReflectorAddIn\ReflectorAddIn\Project\obj\Release\ReflectorAddIn.csproj.GenerateResource.Cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\Misc\ReflectorAddIn\ReflectorAddIn\Project\obj\Release\ReflectorAddIn.dll

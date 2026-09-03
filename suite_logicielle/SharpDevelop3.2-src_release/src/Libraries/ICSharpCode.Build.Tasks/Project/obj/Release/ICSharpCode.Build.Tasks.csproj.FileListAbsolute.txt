@@ -1,0 +1,9 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\SharpDevelop.CheckMSBuild35Features.targets
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\SharpDevelop.Build.CSharp.targets
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\SharpDevelop.CodeAnalysis.targets
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\SharpDevelop.Build.MSIL.targets
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\SharpDevelop.Build.Common.targets
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\SharpDevelop.Build.VisualBasic.targets
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\ICSharpCode.Build.Tasks.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Libraries\ICSharpCode.Build.Tasks\Project\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Libraries\ICSharpCode.Build.Tasks\Project\obj\Release\ICSharpCode.Build.Tasks.dll

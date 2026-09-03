@@ -1,0 +1,7 @@
+box = checkBox*
+but = button*
+
+advice checkbox(box,but) :
+
+but.^Click -> ( box.Hide )
+

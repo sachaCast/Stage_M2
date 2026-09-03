@@ -1,0 +1,13 @@
+\\VBOXSVR\stage_dossier_partagés\testWizardDesigner\testWizardDesigner\obj\Debug\ResolveAssemblyReference.cache
+\\VBOXSVR\stage_dossier_partagés\testWizardDesigner\testWizardDesigner\obj\Debug\UPnPWizardDesigner.pictures.resources
+\\VBOXSVR\stage_dossier_partagés\testWizardDesigner\testWizardDesigner\obj\Debug\UPnPWizardDesigner.UPnPDevicePanel.resources
+\\VBOXSVR\stage_dossier_partagés\testWizardDesigner\testWizardDesigner\obj\Debug\UPnPWizardDesigner_clean.csproj.GenerateResource.Cache
+\\VBOXSVR\stage_dossier_partagés\testWizardDesigner\testWizardDesigner\bin\Debug\UPnPWizardDesigner.exe
+\\VBOXSVR\stage_dossier_partagés\testWizardDesigner\testWizardDesigner\bin\Debug\UPnPWizardDesigner.pdb
+\\VBOXSVR\stage_dossier_partagés\testWizardDesigner\testWizardDesigner\bin\Debug\ApplicationArchitecture.dll
+\\VBOXSVR\stage_dossier_partagés\testWizardDesigner\testWizardDesigner\bin\Debug\Beans.dll
+\\VBOXSVR\stage_dossier_partagés\testWizardDesigner\testWizardDesigner\bin\Debug\UPnP.dll
+\\VBOXSVR\stage_dossier_partagés\testWizardDesigner\testWizardDesigner\bin\Debug\UPnP2Bean.dll
+\\VBOXSVR\stage_dossier_partagés\testWizardDesigner\testWizardDesigner\bin\Debug\UPnPDesignComponent.dll
+\\VBOXSVR\stage_dossier_partagés\testWizardDesigner\testWizardDesigner\obj\Debug\UPnPWizardDesigner.exe
+\\VBOXSVR\stage_dossier_partagés\testWizardDesigner\testWizardDesigner\obj\Debug\UPnPWizardDesigner.pdb

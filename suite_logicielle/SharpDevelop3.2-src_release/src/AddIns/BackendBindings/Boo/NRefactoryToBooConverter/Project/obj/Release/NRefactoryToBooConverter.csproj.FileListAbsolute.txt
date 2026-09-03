@@ -1,0 +1,5 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Project\bin\Release\NRefactoryToBooConverter.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Project\bin\Release\Boo.Lang.Compiler.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Project\bin\Release\Boo.Lang.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Project\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Project\obj\Release\NRefactoryToBooConverter.dll

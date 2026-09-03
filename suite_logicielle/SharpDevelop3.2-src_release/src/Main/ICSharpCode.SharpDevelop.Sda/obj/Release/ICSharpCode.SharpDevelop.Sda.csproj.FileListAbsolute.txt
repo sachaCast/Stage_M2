@@ -1,0 +1,5 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\ICSharpCode.SharpDevelop.Sda.dll.config
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\ICSharpCode.SharpDevelop.Sda.xml
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\ICSharpCode.SharpDevelop.Sda.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\ICSharpCode.SharpDevelop.Sda\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\ICSharpCode.SharpDevelop.Sda\obj\Release\ICSharpCode.SharpDevelop.Sda.dll

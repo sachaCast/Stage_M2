@@ -1,0 +1,5 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\ICSharpCode.NRefactory.Tests.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\ICSharpCode.NRefactory.Tests.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Libraries\NRefactory\Test\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Libraries\NRefactory\Test\obj\Debug\ICSharpCode.NRefactory.Tests.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Libraries\NRefactory\Test\obj\Debug\ICSharpCode.NRefactory.Tests.pdb

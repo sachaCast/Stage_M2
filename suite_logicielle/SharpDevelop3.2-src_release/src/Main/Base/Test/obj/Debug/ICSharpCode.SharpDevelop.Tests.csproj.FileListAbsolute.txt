@@ -1,0 +1,11 @@
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\Mono.Cecil.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\ICSharpCode.SharpDevelop.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\log4net.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\ICSharpCode.Core.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\WeifenLuo.WinFormsUI.Docking.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\ICSharpCode.TextEditor.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\ICSharpCode.SharpDevelop.Tests.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\bin\UnitTests\ICSharpCode.SharpDevelop.Tests.pdb
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\Base\Test\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\Base\Test\obj\Debug\ICSharpCode.SharpDevelop.Tests.dll
+D:\Dev\src\WComp\SharpDevelop3.2-src_release\src\Main\Base\Test\obj\Debug\ICSharpCode.SharpDevelop.Tests.pdb

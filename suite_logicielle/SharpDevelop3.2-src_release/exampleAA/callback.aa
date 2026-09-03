@@ -1,0 +1,7 @@
+tbox = textBox*
+but = button*
+
+advice callback(tbox,but) :
+
+but.^Click __ get_Text -> ( tbox.set_Text )
+
