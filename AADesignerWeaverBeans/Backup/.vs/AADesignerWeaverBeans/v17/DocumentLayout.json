@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sacha\\OneDrive\\Bureau\\AADesignerWeaverBeans\\Backup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB85541D-E192-4232-B311-AF554093A4D3}|AADesignerWeaverBeans.csproj|c:\\users\\sacha\\onedrive\\bureau\\aadesignerweaverbeans\\backup\\pointcutbean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB85541D-E192-4232-B311-AF554093A4D3}|AADesignerWeaverBeans.csproj|solutionrelative:pointcutbean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB85541D-E192-4232-B311-AF554093A4D3}|AADesignerWeaverBeans.csproj|C:\\Users\\sacha\\OneDrive\\Bureau\\AADesignerWeaverBeans\\Backup\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB85541D-E192-4232-B311-AF554093A4D3}|AADesignerWeaverBeans.csproj|solutionrelative:operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PointCutBean.cs",
+              "DocumentMoniker": "C:\\Users\\sacha\\OneDrive\\Bureau\\AADesignerWeaverBeans\\Backup\\PointCutBean.cs",
+              "RelativeDocumentMoniker": "PointCutBean.cs",
+              "ToolTip": "C:\\Users\\sacha\\OneDrive\\Bureau\\AADesignerWeaverBeans\\Backup\\PointCutBean.cs",
+              "RelativeToolTip": "PointCutBean.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T12:27:58.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operations.cs",
+              "DocumentMoniker": "C:\\Users\\sacha\\OneDrive\\Bureau\\AADesignerWeaverBeans\\Backup\\Operations.cs",
+              "RelativeDocumentMoniker": "Operations.cs",
+              "ToolTip": "C:\\Users\\sacha\\OneDrive\\Bureau\\AADesignerWeaverBeans\\Backup\\Operations.cs",
+              "RelativeToolTip": "Operations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T12:27:57.929Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

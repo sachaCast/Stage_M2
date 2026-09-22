@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sacha\\OneDrive\\Documents\\testbean\\stage_AADesignerWeaverBeans\\AADesignerWeaverBeans\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB85541D-E192-4232-B311-AF554093A4D3}|AADesignerWeaverBeans.csproj|c:\\users\\sacha\\onedrive\\documents\\testbean\\stage_aadesignerweaverbeans\\aadesignerweaverbeans\\cyclemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB85541D-E192-4232-B311-AF554093A4D3}|AADesignerWeaverBeans.csproj|solutionrelative:cyclemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB85541D-E192-4232-B311-AF554093A4D3}|AADesignerWeaverBeans.csproj|C:\\Users\\sacha\\OneDrive\\Documents\\testbean\\stage_AADesignerWeaverBeans\\AADesignerWeaverBeans\\joinpointfullbean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB85541D-E192-4232-B311-AF554093A4D3}|AADesignerWeaverBeans.csproj|solutionrelative:joinpointfullbean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB85541D-E192-4232-B311-AF554093A4D3}|AADesignerWeaverBeans.csproj|C:\\Users\\sacha\\OneDrive\\Documents\\testbean\\stage_AADesignerWeaverBeans\\AADesignerWeaverBeans\\joinpointdefaultbean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB85541D-E192-4232-B311-AF554093A4D3}|AADesignerWeaverBeans.csproj|solutionrelative:joinpointdefaultbean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB85541D-E192-4232-B311-AF554093A4D3}|AADesignerWeaverBeans.csproj|C:\\Users\\sacha\\OneDrive\\Documents\\testbean\\stage_AADesignerWeaverBeans\\AADesignerWeaverBeans\\joinpointbuilderbean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB85541D-E192-4232-B311-AF554093A4D3}|AADesignerWeaverBeans.csproj|solutionrelative:joinpointbuilderbean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB85541D-E192-4232-B311-AF554093A4D3}|AADesignerWeaverBeans.csproj|C:\\Users\\sacha\\OneDrive\\Documents\\testbean\\stage_AADesignerWeaverBeans\\AADesignerWeaverBeans\\pointcutbean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB85541D-E192-4232-B311-AF554093A4D3}|AADesignerWeaverBeans.csproj|solutionrelative:pointcutbean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB85541D-E192-4232-B311-AF554093A4D3}|AADesignerWeaverBeans.csproj|C:\\Users\\sacha\\OneDrive\\Documents\\testbean\\stage_AADesignerWeaverBeans\\AADesignerWeaverBeans\\transcriptoraa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB85541D-E192-4232-B311-AF554093A4D3}|AADesignerWeaverBeans.csproj|solutionrelative:transcriptoraa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB85541D-E192-4232-B311-AF554093A4D3}|AADesignerWeaverBeans.csproj|C:\\Users\\sacha\\OneDrive\\Documents\\testbean\\stage_AADesignerWeaverBeans\\AADesignerWeaverBeans\\advicetoupnp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB85541D-E192-4232-B311-AF554093A4D3}|AADesignerWeaverBeans.csproj|solutionrelative:advicetoupnp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB85541D-E192-4232-B311-AF554093A4D3}|AADesignerWeaverBeans.csproj|C:\\Users\\sacha\\OneDrive\\Documents\\testbean\\stage_AADesignerWeaverBeans\\AADesignerWeaverBeans\\aarepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB85541D-E192-4232-B311-AF554093A4D3}|AADesignerWeaverBeans.csproj|solutionrelative:aarepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB85541D-E192-4232-B311-AF554093A4D3}|AADesignerWeaverBeans.csproj|C:\\Users\\sacha\\OneDrive\\Documents\\testbean\\stage_AADesignerWeaverBeans\\AADesignerWeaverBeans\\1transcriptoraa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB85541D-E192-4232-B311-AF554093A4D3}|AADesignerWeaverBeans.csproj|solutionrelative:1transcriptoraa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB85541D-E192-4232-B311-AF554093A4D3}|AADesignerWeaverBeans.csproj|C:\\Users\\sacha\\OneDrive\\Documents\\testbean\\stage_AADesignerWeaverBeans\\AADesignerWeaverBeans\\advicebean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB85541D-E192-4232-B311-AF554093A4D3}|AADesignerWeaverBeans.csproj|solutionrelative:advicebean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CycleManager.cs",
+              "DocumentMoniker": "C:\\Users\\sacha\\OneDrive\\Documents\\testbean\\stage_AADesignerWeaverBeans\\AADesignerWeaverBeans\\CycleManager.cs",
+              "RelativeDocumentMoniker": "CycleManager.cs",
+              "ToolTip": "C:\\Users\\sacha\\OneDrive\\Documents\\testbean\\stage_AADesignerWeaverBeans\\AADesignerWeaverBeans\\CycleManager.cs",
+              "RelativeToolTip": "CycleManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T08:38:08.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JoinPointDefaultBean.cs",
+              "DocumentMoniker": "C:\\Users\\sacha\\OneDrive\\Documents\\testbean\\stage_AADesignerWeaverBeans\\AADesignerWeaverBeans\\JoinPointDefaultBean.cs",
+              "RelativeDocumentMoniker": "JoinPointDefaultBean.cs",
+              "ToolTip": "C:\\Users\\sacha\\OneDrive\\Documents\\testbean\\stage_AADesignerWeaverBeans\\AADesignerWeaverBeans\\JoinPointDefaultBean.cs",
+              "RelativeToolTip": "JoinPointDefaultBean.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T08:40:58.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JoinPointBuilderBean.cs",
+              "DocumentMoniker": "C:\\Users\\sacha\\OneDrive\\Documents\\testbean\\stage_AADesignerWeaverBeans\\AADesignerWeaverBeans\\JoinPointBuilderBean.cs",
+              "RelativeDocumentMoniker": "JoinPointBuilderBean.cs",
+              "ToolTip": "C:\\Users\\sacha\\OneDrive\\Documents\\testbean\\stage_AADesignerWeaverBeans\\AADesignerWeaverBeans\\JoinPointBuilderBean.cs",
+              "RelativeToolTip": "JoinPointBuilderBean.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T08:40:50.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PointCutBean.cs",
+              "DocumentMoniker": "C:\\Users\\sacha\\OneDrive\\Documents\\testbean\\stage_AADesignerWeaverBeans\\AADesignerWeaverBeans\\PointCutBean.cs",
+              "RelativeDocumentMoniker": "PointCutBean.cs",
+              "ToolTip": "C:\\Users\\sacha\\OneDrive\\Documents\\testbean\\stage_AADesignerWeaverBeans\\AADesignerWeaverBeans\\PointCutBean.cs",
+              "RelativeToolTip": "PointCutBean.cs",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAAwB4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T12:27:58.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AARepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\sacha\\OneDrive\\Documents\\testbean\\stage_AADesignerWeaverBeans\\AADesignerWeaverBeans\\AARepositoryManager.cs",
+              "RelativeDocumentMoniker": "AARepositoryManager.cs",
+              "ToolTip": "C:\\Users\\sacha\\OneDrive\\Documents\\testbean\\stage_AADesignerWeaverBeans\\AADesignerWeaverBeans\\AARepositoryManager.cs",
+              "RelativeToolTip": "AARepositoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T13:32:07.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JoinPointFullBean.cs",
+              "DocumentMoniker": "C:\\Users\\sacha\\OneDrive\\Documents\\testbean\\stage_AADesignerWeaverBeans\\AADesignerWeaverBeans\\JoinPointFullBean.cs",
+              "RelativeDocumentMoniker": "JoinPointFullBean.cs",
+              "ToolTip": "C:\\Users\\sacha\\OneDrive\\Documents\\testbean\\stage_AADesignerWeaverBeans\\AADesignerWeaverBeans\\JoinPointFullBean.cs",
+              "RelativeToolTip": "JoinPointFullBean.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAIwEsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T13:54:33.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "1TranscriptorAA.cs",
+              "DocumentMoniker": "C:\\Users\\sacha\\OneDrive\\Documents\\testbean\\stage_AADesignerWeaverBeans\\AADesignerWeaverBeans\\1TranscriptorAA.cs",
+              "RelativeDocumentMoniker": "1TranscriptorAA.cs",
+              "ToolTip": "C:\\Users\\sacha\\OneDrive\\Documents\\testbean\\stage_AADesignerWeaverBeans\\AADesignerWeaverBeans\\1TranscriptorAA.cs",
+              "RelativeToolTip": "1TranscriptorAA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T13:32:03.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdviceBean.cs",
+              "DocumentMoniker": "C:\\Users\\sacha\\OneDrive\\Documents\\testbean\\stage_AADesignerWeaverBeans\\AADesignerWeaverBeans\\AdviceBean.cs",
+              "RelativeDocumentMoniker": "AdviceBean.cs",
+              "ToolTip": "C:\\Users\\sacha\\OneDrive\\Documents\\testbean\\stage_AADesignerWeaverBeans\\AADesignerWeaverBeans\\AdviceBean.cs",
+              "RelativeToolTip": "AdviceBean.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T13:31:49.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdviceToUPnP.cs",
+              "DocumentMoniker": "C:\\Users\\sacha\\OneDrive\\Documents\\testbean\\stage_AADesignerWeaverBeans\\AADesignerWeaverBeans\\AdviceToUPnP.cs",
+              "RelativeDocumentMoniker": "AdviceToUPnP.cs",
+              "ToolTip": "C:\\Users\\sacha\\OneDrive\\Documents\\testbean\\stage_AADesignerWeaverBeans\\AADesignerWeaverBeans\\AdviceToUPnP.cs",
+              "RelativeToolTip": "AdviceToUPnP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T13:28:25.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TranscriptorAA.cs",
+              "DocumentMoniker": "C:\\Users\\sacha\\OneDrive\\Documents\\testbean\\stage_AADesignerWeaverBeans\\AADesignerWeaverBeans\\TranscriptorAA.cs",
+              "RelativeDocumentMoniker": "TranscriptorAA.cs",
+              "ToolTip": "C:\\Users\\sacha\\OneDrive\\Documents\\testbean\\stage_AADesignerWeaverBeans\\AADesignerWeaverBeans\\TranscriptorAA.cs",
+              "RelativeToolTip": "TranscriptorAA.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAnwPkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T13:11:43.08Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

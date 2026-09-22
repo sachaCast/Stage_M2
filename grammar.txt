@@ -1,0 +1,115 @@
+%union {
+	public Pointcut PointcutType;
+	public string StringType;
+	public LinkEndPoint LinkEndPointType;
+	public int IntType;
+}
+
+/* TERMINALS */
+%token ADVICE ASPECT EQUAL ARROW COLON PORTSEPARATOR CALLBACKSEPARATOR 
+%token LPAR RPAR COMMA EVENTIDENTIFIER QUESTIONMARK
+%token <StringType> ID REGEXP STRING PATTERN_EXPR
+%token <IntType> INTEGER
+
+%type <PointcutType> pointcut_entry
+%type <StringType> class qualified_id pointcut_value
+%type <LinkEndPointType> event_id method_id right
+
+%%
+
+aa:		{ /* Empty AA */ }
+	| pointcut_list advice_decl COLON advice_rules
+		{ /* Full AA */ }
+	| advice_decl COLON advice_rules
+		{ /* Pointcut-less AA */ }
+	;
+
+advice_decl:
+	ADVICE ID LPAR var_list RPAR
+	| ASPECT ID LPAR var_list RPAR
+	;
+
+pointcut_list:
+	pointcut_list pointcut_entry	{ /* adding the entry to definition */ }
+	| pointcut_entry		{ /* adding the entry to definition */ }
+	;
+
+pointcut_entry:
+	ID EQUAL pointcut_value		{ /* ex: tbox = textBox* ou gps = *?type=Observable.Position */ }
+	;
+
+pointcut_value:
+	REGEXP				{ /* textBox* */ }
+	| ID				{ /* light1 */ }
+	| PATTERN_EXPR			{ /* *?type=Observable.Position */ }
+	;
+
+var_list: 
+	/* empty list */ 
+	| var_list1 
+	;
+
+var_list1:
+	var_list1 COMMA ID 
+	| ID 
+	;
+
+advice_rules:	
+	/* empty rules */ 
+	| advice_rules rule
+	;
+
+rule:
+	ID COLON class properties	{ /* Component creation, ex: button : System.Windows.Forms.Button */ }
+	| event_id ARROW LPAR right RPAR { /* Link creation, ex: but.^Click -> (box.Hide) */ }
+	;
+
+class:
+	qualified_id			{ /* Full qualified class name */ }
+	;
+
+qualified_id:
+	ID
+	| qualified_id PORTSEPARATOR ID
+	;
+
+properties:	
+	/* empty */ 
+	| LPAR list_of_properties RPAR 
+	;
+
+list_of_properties:
+	property 
+	| list_of_properties COMMA property 
+	;
+
+property:
+	ID EQUAL INTEGER		{ /* INT type property definition */ }
+	| ID EQUAL STRING		{ /* STR type property definition */ }
+	;
+
+event_id:
+	ID PORTSEPARATOR EVENTIDENTIFIER ID parameters 
+		{ /* ex: but.^Click ou switch .^Status_Event */ }
+	;
+
+parameters:	
+	/* no callback */ 
+	| CALLBACKSEPARATOR list_of_parameters 
+		{ /* ex: __ get_Text */ }
+	;
+
+list_of_parameters:
+	list_of_parameters ID	
+	| ID			
+	;
+
+right:
+	method_id 
+	;
+
+method_id:
+	ID PORTSEPARATOR ID		{ /* ex: tbox.set_Text */ }
+	;
+
+%%

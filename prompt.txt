@@ -1,0 +1,14 @@
+Consignes impératives pour la génération de code Aspect/Advice (.aa) :
+
+Déclaration des composants (Pointcuts) : Déclare chaque composant/appareil avant le bloc advice (ex: identifiant = pattern).
+
+Signature de l'Advice : La règle d'or est que CHAQUE identifiant défini dans la liste des composants ci-dessus DOIT être listé comme paramètre entre parenthèses dans la signature :
+advice <nom_advice>(<appareil_1>, <appareil_2>, ...) :
+
+Corps de l'Advice :
+
+Déclaration de nouveaux composants si besoin : nom : Namespace.Type
+
+Connexions d'événements : emetteur.^Evenement [__ callback] -> (receveur.Action)
+
+Interdiction formelle de laisser les parenthèses de advice nom() vides si des appareils ont été définis au-dessus.

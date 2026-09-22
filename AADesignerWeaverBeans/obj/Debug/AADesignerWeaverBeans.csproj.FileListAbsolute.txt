@@ -1,0 +1,12 @@
+C:\Users\sacha\OneDrive\Documents\testbean\AADesignerWeaverBeans\obj\Debug\AADesignerWeaverBeans.csproj.AssemblyReference.cache
+C:\Users\sacha\OneDrive\Documents\testbean\AADesignerWeaverBeans\obj\Debug\AADesignerWeaverBeans.csproj.CoreCompileInputs.cache
+C:\Users\sacha\OneDrive\Documents\testbean\AADesignerWeaverBeans\bin\Debug\AADesignerWeaverBeans.dll
+C:\Users\sacha\OneDrive\Documents\testbean\AADesignerWeaverBeans\bin\Debug\AADesignerWeaverBeans.pdb
+C:\Users\sacha\OneDrive\Documents\testbean\AADesignerWeaverBeans\bin\Debug\AATypes.dll
+C:\Users\sacha\OneDrive\Documents\testbean\AADesignerWeaverBeans\bin\Debug\Beans.dll
+C:\Users\sacha\OneDrive\Documents\testbean\AADesignerWeaverBeans\bin\Debug\Grammaire.dll
+C:\Users\sacha\OneDrive\Documents\testbean\AADesignerWeaverBeans\bin\Debug\QUT.ShiftReduceParser.dll
+C:\Users\sacha\OneDrive\Documents\testbean\AADesignerWeaverBeans\bin\Debug\Util.dll
+C:\Users\sacha\OneDrive\Documents\testbean\AADesignerWeaverBeans\obj\Debug\AADesign.8BA01A43.Up2Date
+C:\Users\sacha\OneDrive\Documents\testbean\AADesignerWeaverBeans\obj\Debug\AADesignerWeaverBeans.dll
+C:\Users\sacha\OneDrive\Documents\testbean\AADesignerWeaverBeans\obj\Debug\AADesignerWeaverBeans.pdb

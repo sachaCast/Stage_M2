@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!--Project was exported from assembly: C:\Users\sacha\OneDrive\Documents\beans copies\AADesignerWeaverBeans.dll-->
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FB85541D-E192-4232-B311-AF554093A4D3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AssemblyName>AADesignerWeaverBeans</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <ApplicationVersion>3.2.2.1427</ApplicationVersion>
+    <FileAlignment>512</FileAlignment>
+    <RootNamespace>WComp.AADesigner</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AATypes">
+      <HintPath>lib\AATypes.dll</HintPath>
+    </Reference>
+    <Reference Include="Beans">
+      <HintPath>lib\Beans.dll</HintPath>
+    </Reference>
+    <Reference Include="Grammaire">
+      <HintPath>lib\Grammaire.dll</HintPath>
+    </Reference>
+    <Reference Include="QUT.ShiftReduceParser">
+      <HintPath>lib\QUT.ShiftReduceParser.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Util">
+      <HintPath>lib\Util.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Generic.cs" />
+    <Compile Include="ConflictBean.cs" />
+    <Compile Include="AARepositoryManager.cs" />
+    <Compile Include="AdviceBean.cs" />
+    <Compile Include="AdviceToUPnP.cs" />
+    <Compile Include="CycleManager.cs" />
+    <Compile Include="FilterAA.cs" />
+    <Compile Include="IdentificationConflictManager.cs" />
+    <Compile Include="JoinPointBuilderBean.cs" />
+    <Compile Include="JoinPointDefaultBean.cs" />
+    <Compile Include="JoinPointFullBean.cs" />
+    <Compile Include="MergerToRules.cs" />
+    <Compile Include="ModifyListAdviceRule.cs" />
+    <Compile Include="PointCutBean.cs" />
+    <Compile Include="Stopwatch.cs" />
+    <Compile Include="RulesToMerger.cs" />
+    <Compile Include="SingleToDoubleStringSynchronized.cs" />
+    <Compile Include="Superposition.cs" />
+    <Compile Include="TranscriptorAA.cs" />
+    <Compile Include="Operations.cs" />
+    <Compile Include="1TranscriptorAA.cs" />
+    <Compile Include="XMLParsor.cs" />
+    <Compile Include="1XMLParsor.cs" />
+    <Compile Include="2XMLParsor.cs" />
+    <Compile Include="3XMLParsor.cs" />
+    <Compile Include="4XMLParsor.cs" />
+    <Compile Include="5XMLParsor.cs" />
+    <Compile Include="6XMLParsor.cs" />
+    <Compile Include="7XMLParsor.cs" />
+    <Compile Include="8XMLParsor.cs" />
+    <Compile Include="9XMLParsor.cs" />
+    <Compile Include="10XMLParsor.cs" />
+    <Compile Include="11XMLParsor.cs" />
+    <Compile Include="12XMLParsor.cs" />
+    <Compile Include="13XMLParsor.cs" />
+    <Compile Include="14XMLParsor.cs" />
+    <Compile Include="RevisionClass.cs" />
+    <Compile Include="AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
