@@ -9,6 +9,10 @@ Ce document décrit la procédure de lancement de la suite logicielle, la config
 ## 1. Exécution des logiciels et configuration WComp
 
 ### Étape 1 : Lancement des outils
+Copier dans le sous-dossier `Beans` du répertoire d'installation de **SharpDevelop** les beans présent dans :
+```text
+suite_logicielle/SharpDevelop3.2-src_release/Beans
+```
 Lancer simultanément les logiciels suivants :
 * **WComp**
 * **WizardDesigner**
@@ -20,10 +24,7 @@ Dans l'interface de **WComp**, créer deux conteneurs :
 2. `weaver`
 
 ### Étape 3 : Import dans le conteneur Weaver
-Copier dans le sous-dossier `Beans` du répertoire d'installation de **SharpDevelop** les beans présent dans :
-```text
-suite_logicielle/SharpDevelop3.2-src_release/Beans
-```
+
 Dans le conteneur **weaver**, importer le fichier :
 ```text
 suite_logicielle/SharpDevelop3.2-src_release/SharpWCompContainer/weaver.wcc
