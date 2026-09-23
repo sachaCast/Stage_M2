@@ -13,8 +13,8 @@ Copier dans le sous-dossier `Beans` du répertoire d'installation de **SharpDeve
 ```text
 suite_logicielle/SharpDevelop3.2-src_release/Beans
 ```
-Lancer simultanément les logiciels suivants :
-* **WComp**
+Lancer les logiciels suivants :
+* **SharpDevelop**
 * **WizardDesigner**
 * **AADesigner**
 
