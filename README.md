@@ -33,6 +33,9 @@ suite_logicielle/SharpDevelop3.2-src_release/SharpWCompContainer/weaver.wcc
 ### Étape 4 : Sélection du conteneur dans WizardDesigner
 * Ouvrir **WizardDesigner** et sélectionner le conteneur nommé `appli`.
 
+### Étape 5 : Json
+Le json est créé dans le sous-dossier `bin` du répertoire d'installation de **SharpDevelop**
+
 ---
 
 ## 2. Modification et recompilation de AADesignerWeaverBeans
