@@ -14,14 +14,14 @@ Copier dans le sous-dossier `Beans` du répertoire d'installation de **SharpDeve
 suite_logicielle/SharpDevelop3.2-src_release/Beans
 ```
 Lancer les logiciels suivants :
-* **SharpDevelop**
+* **SharpDevelop** en mode administrateur
 * **WizardDesigner**
 * **AADesigner**
 
 ### Étape 2 : Création des conteneurs dans WComp
 Dans l'interface de **WComp**, créer deux conteneurs :
-1. `appli`
-2. `weaver`
+1. `Appli`
+2. `Weaver`
 
 ### Étape 3 : Import dans le conteneur Weaver
 
