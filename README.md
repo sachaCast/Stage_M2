@@ -13,6 +13,11 @@ Copier dans le sous-dossier `Beans` du répertoire d'installation de **SharpDeve
 ```text
 suite_logicielle/SharpDevelop3.2-src_release/Beans
 ```
+puis
+```text
+beans_modifies_extract_json
+```
+
 Lancer les logiciels suivants :
 * **SharpDevelop** en mode administrateur
 * **WizardDesigner**
